@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Compose owns the actual Material3 theming (see ui/theme);
+         this XML theme only needs to exist for the manifest / splash before Compose loads. -->
+    <style name="Theme.VocabTrainer" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
