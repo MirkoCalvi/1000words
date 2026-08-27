@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple "1000" flashcard glyph, keeps the app icon dependency-free. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,40 L84,40 L84,72 L24,72 Z"
+        android:fillAlpha="0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,46h6v18h-6z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,46 h12 a6,6 0 0 1 6,6 v6 a6,6 0 0 1 -6,6 h-12 z M48,52 v6 h6 v-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,46 h12 a6,6 0 0 1 6,6 v6 a6,6 0 0 1 -6,6 h-12 z M70,52 v6 h6 v-6 z" />
+</vector>

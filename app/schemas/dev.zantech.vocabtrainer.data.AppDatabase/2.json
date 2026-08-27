@@ -1,0 +1,244 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 2,
+    "identityHash": "929f60f7de996cfddfe07dd50c2c76af",
+    "entities": [
+      {
+        "tableName": "words",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `spanish` TEXT NOT NULL, `english` TEXT NOT NULL, `partOfSpeech` TEXT NOT NULL, `example` TEXT NOT NULL, `category` TEXT NOT NULL, `timesCorrect` INTEGER NOT NULL, `timesIncorrect` INTEGER NOT NULL, `correctStreak` INTEGER NOT NULL, `mastered` INTEGER NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "spanish",
+            "columnName": "spanish",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "english",
+            "columnName": "english",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "partOfSpeech",
+            "columnName": "partOfSpeech",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "example",
+            "columnName": "example",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "category",
+            "columnName": "category",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "timesCorrect",
+            "columnName": "timesCorrect",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "timesIncorrect",
+            "columnName": "timesIncorrect",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "correctStreak",
+            "columnName": "correctStreak",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "mastered",
+            "columnName": "mastered",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "app_state",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `currentStreak` INTEGER NOT NULL, `lastPracticeDate` TEXT, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "currentStreak",
+            "columnName": "currentStreak",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastPracticeDate",
+            "columnName": "lastPracticeDate",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "conjugations",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`wordId` INTEGER NOT NULL, `presentYo` TEXT NOT NULL, `presentTu` TEXT NOT NULL, `presentEl` TEXT NOT NULL, `presentNosotros` TEXT NOT NULL, `presentVosotros` TEXT NOT NULL, `presentEllos` TEXT NOT NULL, `preteriteYo` TEXT NOT NULL, `preteriteTu` TEXT NOT NULL, `preteriteEl` TEXT NOT NULL, `preteriteNosotros` TEXT NOT NULL, `preteriteVosotros` TEXT NOT NULL, `preteriteEllos` TEXT NOT NULL, PRIMARY KEY(`wordId`))",
+        "fields": [
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentYo",
+            "columnName": "presentYo",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentTu",
+            "columnName": "presentTu",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentEl",
+            "columnName": "presentEl",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentNosotros",
+            "columnName": "presentNosotros",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentVosotros",
+            "columnName": "presentVosotros",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "presentEllos",
+            "columnName": "presentEllos",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteYo",
+            "columnName": "preteriteYo",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteTu",
+            "columnName": "preteriteTu",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteEl",
+            "columnName": "preteriteEl",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteNosotros",
+            "columnName": "preteriteNosotros",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteVosotros",
+            "columnName": "preteriteVosotros",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "preteriteEllos",
+            "columnName": "preteriteEllos",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "wordId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "thematic_progress",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`category` TEXT NOT NULL, `unlockedCount` INTEGER NOT NULL, `lastUnlockDate` TEXT, PRIMARY KEY(`category`))",
+        "fields": [
+          {
+            "fieldPath": "category",
+            "columnName": "category",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "unlockedCount",
+            "columnName": "unlockedCount",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastUnlockDate",
+            "columnName": "lastUnlockDate",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "category"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '929f60f7de996cfddfe07dd50c2c76af')"
+    ]
+  }
+}

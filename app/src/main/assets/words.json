@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "spanish": "ser",
+    "english": "to be",
+    "partOfSpeech": "verb",
+    "example": "Quiero ser.",
+    "category": "general"
+  },
+  {
+    "id": 2,
+    "spanish": "estar",
+    "english": "to be (state/location)",
+    "partOfSpeech": "verb",
+    "example": "Voy a estar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 3,
+    "spanish": "tener",
+    "english": "to have",
+    "partOfSpeech": "verb",
+    "example": "No puedo tener ahora.",
+    "category": "general"
+  },
+  {
+    "id": 4,
+    "spanish": "hacer",
+    "english": "to do / to make",
+    "partOfSpeech": "verb",
+    "example": "Ella hace cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 5,
+    "spanish": "poder",
+    "english": "to be able to / can",
+    "partOfSpeech": "verb",
+    "example": "Yo puedo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 6,
+    "spanish": "decir",
+    "english": "to say / to tell",
+    "partOfSpeech": "verb",
+    "example": "Quiero decir.",
+    "category": "communication"
+  },
+  {
+    "id": 7,
+    "spanish": "ir",
+    "english": "to go",
+    "partOfSpeech": "verb",
+    "example": "Voy a ir mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 8,
+    "spanish": "ver",
+    "english": "to see",
+    "partOfSpeech": "verb",
+    "example": "No puedo ver ahora.",
+    "category": "general"
+  },
+  {
+    "id": 9,
+    "spanish": "dar",
+    "english": "to give",
+    "partOfSpeech": "verb",
+    "example": "Ella da cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 10,
+    "spanish": "saber",
+    "english": "to know (a fact)",
+    "partOfSpeech": "verb",
+    "example": "Yo sé todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 11,
+    "spanish": "querer",
+    "english": "to want / to love",
+    "partOfSpeech": "verb",
+    "example": "Quiero querer.",
+    "category": "emotions"
+  },
+  {
+    "id": 12,
+    "spanish": "llegar",
+    "english": "to arrive",
+    "partOfSpeech": "verb",
+    "example": "Voy a llegar mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 13,
+    "spanish": "pasar",
+    "english": "to pass / to happen",
+    "partOfSpeech": "verb",
+    "example": "No puedo pasar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 14,
+    "spanish": "deber",
+    "english": "to owe / must",
+    "partOfSpeech": "verb",
+    "example": "Ella debe cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 15,
+    "spanish": "poner",
+    "english": "to put",
+    "partOfSpeech": "verb",
+    "example": "Yo pongo todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 16,
+    "spanish": "parecer",
+    "english": "to seem",
+    "partOfSpeech": "verb",
+    "example": "Quiero parecer.",
+    "category": "general"
+  },
+  {
+    "id": 17,
+    "spanish": "quedar",
+    "english": "to remain / to stay",
+    "partOfSpeech": "verb",
+    "example": "Voy a quedar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 18,
+    "spanish": "creer",
+    "english": "to believe",
+    "partOfSpeech": "verb",
+    "example": "No puedo creer ahora.",
+    "category": "general"
+  },
+  {
+    "id": 19,
+    "spanish": "hablar",
+    "english": "to speak",
+    "partOfSpeech": "verb",
+    "example": "Ella habla cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 20,
+    "spanish": "llevar",
+    "english": "to carry / to wear",
+    "partOfSpeech": "verb",
+    "example": "Yo llevo todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 21,
+    "spanish": "dejar",
+    "english": "to leave / to let",
+    "partOfSpeech": "verb",
+    "example": "Quiero dejar.",
+    "category": "general"
+  },
+  {
+    "id": 22,
+    "spanish": "sentir",
+    "english": "to feel",
+    "partOfSpeech": "verb",
+    "example": "Voy a sentir mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 23,
+    "spanish": "encontrar",
+    "english": "to find",
+    "partOfSpeech": "verb",
+    "example": "No puedo encontrar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 24,
+    "spanish": "llamar",
+    "english": "to call",
+    "partOfSpeech": "verb",
+    "example": "Ella llama cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 25,
+    "spanish": "venir",
+    "english": "to come",
+    "partOfSpeech": "verb",
+    "example": "Yo vengo todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 26,
+    "spanish": "pensar",
+    "english": "to think",
+    "partOfSpeech": "verb",
+    "example": "Quiero pensar.",
+    "category": "general"
+  },
+  {
+    "id": 27,
+    "spanish": "salir",
+    "english": "to leave / to go out",
+    "partOfSpeech": "verb",
+    "example": "Voy a salir mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 28,
+    "spanish": "volver",
+    "english": "to return",
+    "partOfSpeech": "verb",
+    "example": "No puedo volver ahora.",
+    "category": "travel"
+  },
+  {
+    "id": 29,
+    "spanish": "tomar",
+    "english": "to take / to drink",
+    "partOfSpeech": "verb",
+    "example": "Ella toma cada semana.",
+    "category": "food"
+  },
+  {
+    "id": 30,
+    "spanish": "conocer",
+    "english": "to know (a person/place)",
+    "partOfSpeech": "verb",
+    "example": "Yo conozco todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 31,
+    "spanish": "vivir",
+    "english": "to live",
+    "partOfSpeech": "verb",
+    "example": "Quiero vivir.",
+    "category": "house"
+  },
+  {
+    "id": 32,
+    "spanish": "escribir",
+    "english": "to write",
+    "partOfSpeech": "verb",
+    "example": "Voy a escribir mañana.",
+    "category": "school"
+  },
+  {
+    "id": 33,
+    "spanish": "leer",
+    "english": "to read",
+    "partOfSpeech": "verb",
+    "example": "No puedo leer ahora.",
+    "category": "school"
+  },
+  {
+    "id": 34,
+    "spanish": "comer",
+    "english": "to eat",
+    "partOfSpeech": "verb",
+    "example": "Ella come cada semana.",
+    "category": "food"
+  },
+  {
+    "id": 35,
+    "spanish": "beber",
+    "english": "to drink",
+    "partOfSpeech": "verb",
+    "example": "Yo bebo todos los días.",
+    "category": "food"
+  },
+  {
+    "id": 36,
+    "spanish": "trabajar",
+    "english": "to work",
+    "partOfSpeech": "verb",
+    "example": "Quiero trabajar.",
+    "category": "work"
+  },
+  {
+    "id": 37,
+    "spanish": "estudiar",
+    "english": "to study",
+    "partOfSpeech": "verb",
+    "example": "Voy a estudiar mañana.",
+    "category": "school"
+  },
+  {
+    "id": 38,
+    "spanish": "empezar",
+    "english": "to begin",
+    "partOfSpeech": "verb",
+    "example": "No puedo empezar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 39,
+    "spanish": "terminar",
+    "english": "to finish",
+    "partOfSpeech": "verb",
+    "example": "Ella termina cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 40,
+    "spanish": "jugar",
+    "english": "to play",
+    "partOfSpeech": "verb",
+    "example": "Yo juego todos los días.",
+    "category": "sports"
+  },
+  {
+    "id": 41,
+    "spanish": "escuchar",
+    "english": "to listen",
+    "partOfSpeech": "verb",
+    "example": "Quiero escuchar.",
+    "category": "general"
+  },
+  {
+    "id": 42,
+    "spanish": "entender",
+    "english": "to understand",
+    "partOfSpeech": "verb",
+    "example": "Voy a entender mañana.",
+    "category": "school"
+  },
+  {
+    "id": 43,
+    "spanish": "aprender",
+    "english": "to learn",
+    "partOfSpeech": "verb",
+    "example": "No puedo aprender ahora.",
+    "category": "school"
+  },
+  {
+    "id": 44,
+    "spanish": "comprar",
+    "english": "to buy",
+    "partOfSpeech": "verb",
+    "example": "Ella compra cada semana.",
+    "category": "city"
+  },
+  {
+    "id": 45,
+    "spanish": "buscar",
+    "english": "to look for",
+    "partOfSpeech": "verb",
+    "example": "Yo busco todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 46,
+    "spanish": "necesitar",
+    "english": "to need",
+    "partOfSpeech": "verb",
+    "example": "Quiero necesitar.",
+    "category": "general"
+  },
+  {
+    "id": 47,
+    "spanish": "ayudar",
+    "english": "to help",
+    "partOfSpeech": "verb",
+    "example": "Voy a ayudar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 48,
+    "spanish": "abrir",
+    "english": "to open",
+    "partOfSpeech": "verb",
+    "example": "No puedo abrir ahora.",
+    "category": "house"
+  },
+  {
+    "id": 49,
+    "spanish": "cerrar",
+    "english": "to close",
+    "partOfSpeech": "verb",
+    "example": "Ella cierra cada semana.",
+    "category": "house"
+  },
+  {
+    "id": 50,
+    "spanish": "andar",
+    "english": "to walk",
+    "partOfSpeech": "verb",
+    "example": "Yo ando todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 51,
+    "spanish": "caer",
+    "english": "to fall",
+    "partOfSpeech": "verb",
+    "example": "Quiero caer.",
+    "category": "general"
+  },
+  {
+    "id": 52,
+    "spanish": "cambiar",
+    "english": "to change",
+    "partOfSpeech": "verb",
+    "example": "Voy a cambiar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 53,
+    "spanish": "cantar",
+    "english": "to sing",
+    "partOfSpeech": "verb",
+    "example": "No puedo cantar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 54,
+    "spanish": "celebrar",
+    "english": "to celebrate",
+    "partOfSpeech": "verb",
+    "example": "Ella celebra cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 55,
+    "spanish": "cocinar",
+    "english": "to cook",
+    "partOfSpeech": "verb",
+    "example": "Yo cocino todos los días.",
+    "category": "food"
+  },
+  {
+    "id": 56,
+    "spanish": "comparar",
+    "english": "to compare",
+    "partOfSpeech": "verb",
+    "example": "Quiero comparar.",
+    "category": "general"
+  },
+  {
+    "id": 57,
+    "spanish": "competir",
+    "english": "to compete",
+    "partOfSpeech": "verb",
+    "example": "Voy a competir mañana.",
+    "category": "sports"
+  },
+  {
+    "id": 58,
+    "spanish": "comprender",
+    "english": "to comprehend",
+    "partOfSpeech": "verb",
+    "example": "No puedo comprender ahora.",
+    "category": "school"
+  },
+  {
+    "id": 59,
+    "spanish": "conducir",
+    "english": "to drive",
+    "partOfSpeech": "verb",
+    "example": "Ella conduce cada semana.",
+    "category": "transportation"
+  },
+  {
+    "id": 60,
+    "spanish": "conseguir",
+    "english": "to get / to achieve",
+    "partOfSpeech": "verb",
+    "example": "Yo consigo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 61,
+    "spanish": "construir",
+    "english": "to build",
+    "partOfSpeech": "verb",
+    "example": "Quiero construir.",
+    "category": "house"
+  },
+  {
+    "id": 62,
+    "spanish": "contar",
+    "english": "to count / to tell",
+    "partOfSpeech": "verb",
+    "example": "Voy a contar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 63,
+    "spanish": "contestar",
+    "english": "to answer",
+    "partOfSpeech": "verb",
+    "example": "No puedo contestar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 64,
+    "spanish": "continuar",
+    "english": "to continue",
+    "partOfSpeech": "verb",
+    "example": "Ella continua cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 65,
+    "spanish": "correr",
+    "english": "to run",
+    "partOfSpeech": "verb",
+    "example": "Yo corro todos los días.",
+    "category": "sports"
+  },
+  {
+    "id": 66,
+    "spanish": "cortar",
+    "english": "to cut",
+    "partOfSpeech": "verb",
+    "example": "Quiero cortar.",
+    "category": "food"
+  },
+  {
+    "id": 67,
+    "spanish": "crear",
+    "english": "to create",
+    "partOfSpeech": "verb",
+    "example": "Voy a crear mañana.",
+    "category": "general"
+  },
+  {
+    "id": 68,
+    "spanish": "crecer",
+    "english": "to grow",
+    "partOfSpeech": "verb",
+    "example": "No puedo crecer ahora.",
+    "category": "nature"
+  },
+  {
+    "id": 69,
+    "spanish": "cruzar",
+    "english": "to cross",
+    "partOfSpeech": "verb",
+    "example": "Ella cruza cada semana.",
+    "category": "city"
+  },
+  {
+    "id": 70,
+    "spanish": "cuidar",
+    "english": "to take care of",
+    "partOfSpeech": "verb",
+    "example": "Yo cuido todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 71,
+    "spanish": "cumplir",
+    "english": "to fulfill / to turn (age)",
+    "partOfSpeech": "verb",
+    "example": "Quiero cumplir.",
+    "category": "general"
+  },
+  {
+    "id": 72,
+    "spanish": "decidir",
+    "english": "to decide",
+    "partOfSpeech": "verb",
+    "example": "Voy a decidir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 73,
+    "spanish": "dedicar",
+    "english": "to dedicate",
+    "partOfSpeech": "verb",
+    "example": "No puedo dedicar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 74,
+    "spanish": "defender",
+    "english": "to defend",
+    "partOfSpeech": "verb",
+    "example": "Ella defiende cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 75,
+    "spanish": "demostrar",
+    "english": "to demonstrate",
+    "partOfSpeech": "verb",
+    "example": "Yo demostro todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 76,
+    "spanish": "depender",
+    "english": "to depend",
+    "partOfSpeech": "verb",
+    "example": "Quiero depender.",
+    "category": "general"
+  },
+  {
+    "id": 77,
+    "spanish": "descansar",
+    "english": "to rest",
+    "partOfSpeech": "verb",
+    "example": "Voy a descansar mañana.",
+    "category": "health"
+  },
+  {
+    "id": 78,
+    "spanish": "descubrir",
+    "english": "to discover",
+    "partOfSpeech": "verb",
+    "example": "No puedo descubrir ahora.",
+    "category": "general"
+  },
+  {
+    "id": 79,
+    "spanish": "desear",
+    "english": "to wish",
+    "partOfSpeech": "verb",
+    "example": "Ella desea cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 80,
+    "spanish": "despertar",
+    "english": "to wake up",
+    "partOfSpeech": "verb",
+    "example": "Yo despierto todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 81,
+    "spanish": "destruir",
+    "english": "to destroy",
+    "partOfSpeech": "verb",
+    "example": "Quiero destruir.",
+    "category": "general"
+  },
+  {
+    "id": 82,
+    "spanish": "devolver",
+    "english": "to give back",
+    "partOfSpeech": "verb",
+    "example": "Voy a devolver mañana.",
+    "category": "general"
+  },
+  {
+    "id": 83,
+    "spanish": "dibujar",
+    "english": "to draw",
+    "partOfSpeech": "verb",
+    "example": "No puedo dibujar ahora.",
+    "category": "school"
+  },
+  {
+    "id": 84,
+    "spanish": "dirigir",
+    "english": "to direct / to manage",
+    "partOfSpeech": "verb",
+    "example": "Ella dirige cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 85,
+    "spanish": "disfrutar",
+    "english": "to enjoy",
+    "partOfSpeech": "verb",
+    "example": "Yo disfruto todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 86,
+    "spanish": "dormir",
+    "english": "to sleep",
+    "partOfSpeech": "verb",
+    "example": "Quiero dormir.",
+    "category": "health"
+  },
+  {
+    "id": 87,
+    "spanish": "dudar",
+    "english": "to doubt",
+    "partOfSpeech": "verb",
+    "example": "Voy a dudar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 88,
+    "spanish": "durar",
+    "english": "to last",
+    "partOfSpeech": "verb",
+    "example": "No puedo durar ahora.",
+    "category": "time"
+  },
+  {
+    "id": 89,
+    "spanish": "echar",
+    "english": "to throw / to pour",
+    "partOfSpeech": "verb",
+    "example": "Ella echa cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 90,
+    "spanish": "elegir",
+    "english": "to choose",
+    "partOfSpeech": "verb",
+    "example": "Yo eligo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 91,
+    "spanish": "empujar",
+    "english": "to push",
+    "partOfSpeech": "verb",
+    "example": "Quiero empujar.",
+    "category": "general"
+  },
+  {
+    "id": 92,
+    "spanish": "encantar",
+    "english": "to love (something)",
+    "partOfSpeech": "verb",
+    "example": "Voy a encantar mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 93,
+    "spanish": "encender",
+    "english": "to turn on",
+    "partOfSpeech": "verb",
+    "example": "No puedo encender ahora.",
+    "category": "technology"
+  },
+  {
+    "id": 94,
+    "spanish": "enseñar",
+    "english": "to teach",
+    "partOfSpeech": "verb",
+    "example": "Ella enseña cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 95,
+    "spanish": "entrar",
+    "english": "to enter",
+    "partOfSpeech": "verb",
+    "example": "Yo entro todos los días.",
+    "category": "city"
+  },
+  {
+    "id": 96,
+    "spanish": "entregar",
+    "english": "to deliver / to hand in",
+    "partOfSpeech": "verb",
+    "example": "Quiero entregar.",
+    "category": "work"
+  },
+  {
+    "id": 97,
+    "spanish": "enviar",
+    "english": "to send",
+    "partOfSpeech": "verb",
+    "example": "Voy a enviar mañana.",
+    "category": "communication"
+  },
+  {
+    "id": 98,
+    "spanish": "escapar",
+    "english": "to escape",
+    "partOfSpeech": "verb",
+    "example": "No puedo escapar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 99,
+    "spanish": "esconder",
+    "english": "to hide",
+    "partOfSpeech": "verb",
+    "example": "Ella esconde cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 100,
+    "spanish": "escoger",
+    "english": "to choose",
+    "partOfSpeech": "verb",
+    "example": "Yo escogo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 101,
+    "spanish": "esperar",
+    "english": "to wait / to hope",
+    "partOfSpeech": "verb",
+    "example": "Quiero esperar.",
+    "category": "general"
+  },
+  {
+    "id": 102,
+    "spanish": "establecer",
+    "english": "to establish",
+    "partOfSpeech": "verb",
+    "example": "Voy a establecer mañana.",
+    "category": "general"
+  },
+  {
+    "id": 103,
+    "spanish": "evitar",
+    "english": "to avoid",
+    "partOfSpeech": "verb",
+    "example": "No puedo evitar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 104,
+    "spanish": "existir",
+    "english": "to exist",
+    "partOfSpeech": "verb",
+    "example": "Ella existe cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 105,
+    "spanish": "explicar",
+    "english": "to explain",
+    "partOfSpeech": "verb",
+    "example": "Yo explico todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 106,
+    "spanish": "expresar",
+    "english": "to express",
+    "partOfSpeech": "verb",
+    "example": "Quiero expresar.",
+    "category": "communication"
+  },
+  {
+    "id": 107,
+    "spanish": "faltar",
+    "english": "to be missing",
+    "partOfSpeech": "verb",
+    "example": "Voy a faltar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 108,
+    "spanish": "felicitar",
+    "english": "to congratulate",
+    "partOfSpeech": "verb",
+    "example": "No puedo felicitar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 109,
+    "spanish": "formar",
+    "english": "to form",
+    "partOfSpeech": "verb",
+    "example": "Ella forma cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 110,
+    "spanish": "funcionar",
+    "english": "to work / to function",
+    "partOfSpeech": "verb",
+    "example": "Yo funciono todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 111,
+    "spanish": "ganar",
+    "english": "to win / to earn",
+    "partOfSpeech": "verb",
+    "example": "Quiero ganar.",
+    "category": "work"
+  },
+  {
+    "id": 112,
+    "spanish": "gastar",
+    "english": "to spend",
+    "partOfSpeech": "verb",
+    "example": "Voy a gastar mañana.",
+    "category": "work"
+  },
+  {
+    "id": 113,
+    "spanish": "girar",
+    "english": "to turn",
+    "partOfSpeech": "verb",
+    "example": "No puedo girar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 114,
+    "spanish": "gritar",
+    "english": "to shout",
+    "partOfSpeech": "verb",
+    "example": "Ella grita cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 115,
+    "spanish": "guardar",
+    "english": "to keep / to save",
+    "partOfSpeech": "verb",
+    "example": "Yo guardo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 116,
+    "spanish": "gustar",
+    "english": "to like",
+    "partOfSpeech": "verb",
+    "example": "Quiero gustar.",
+    "category": "emotions"
+  },
+  {
+    "id": 117,
+    "spanish": "imaginar",
+    "english": "to imagine",
+    "partOfSpeech": "verb",
+    "example": "Voy a imaginar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 118,
+    "spanish": "importar",
+    "english": "to matter",
+    "partOfSpeech": "verb",
+    "example": "No puedo importar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 119,
+    "spanish": "incluir",
+    "english": "to include",
+    "partOfSpeech": "verb",
+    "example": "Ella inclue cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 120,
+    "spanish": "indicar",
+    "english": "to indicate",
+    "partOfSpeech": "verb",
+    "example": "Yo indico todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 121,
+    "spanish": "informar",
+    "english": "to inform",
+    "partOfSpeech": "verb",
+    "example": "Quiero informar.",
+    "category": "communication"
+  },
+  {
+    "id": 122,
+    "spanish": "insistir",
+    "english": "to insist",
+    "partOfSpeech": "verb",
+    "example": "Voy a insistir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 123,
+    "spanish": "intentar",
+    "english": "to try",
+    "partOfSpeech": "verb",
+    "example": "No puedo intentar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 124,
+    "spanish": "interesar",
+    "english": "to interest",
+    "partOfSpeech": "verb",
+    "example": "Ella interesa cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 125,
+    "spanish": "invitar",
+    "english": "to invite",
+    "partOfSpeech": "verb",
+    "example": "Yo invito todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 126,
+    "spanish": "juntar",
+    "english": "to gather / to join",
+    "partOfSpeech": "verb",
+    "example": "Quiero juntar.",
+    "category": "general"
+  },
+  {
+    "id": 127,
+    "spanish": "jurar",
+    "english": "to swear",
+    "partOfSpeech": "verb",
+    "example": "Voy a jurar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 128,
+    "spanish": "lanzar",
+    "english": "to throw / to launch",
+    "partOfSpeech": "verb",
+    "example": "No puedo lanzar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 129,
+    "spanish": "lavar",
+    "english": "to wash",
+    "partOfSpeech": "verb",
+    "example": "Ella lava cada semana.",
+    "category": "house"
+  },
+  {
+    "id": 130,
+    "spanish": "levantar",
+    "english": "to lift / to raise",
+    "partOfSpeech": "verb",
+    "example": "Yo levanto todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 131,
+    "spanish": "limpiar",
+    "english": "to clean",
+    "partOfSpeech": "verb",
+    "example": "Quiero limpiar.",
+    "category": "house"
+  },
+  {
+    "id": 132,
+    "spanish": "llenar",
+    "english": "to fill",
+    "partOfSpeech": "verb",
+    "example": "Voy a llenar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 133,
+    "spanish": "llorar",
+    "english": "to cry",
+    "partOfSpeech": "verb",
+    "example": "No puedo llorar ahora.",
+    "category": "emotions"
+  },
+  {
+    "id": 134,
+    "spanish": "lograr",
+    "english": "to achieve",
+    "partOfSpeech": "verb",
+    "example": "Ella logra cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 135,
+    "spanish": "luchar",
+    "english": "to fight",
+    "partOfSpeech": "verb",
+    "example": "Yo lucho todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 136,
+    "spanish": "mandar",
+    "english": "to send / to order",
+    "partOfSpeech": "verb",
+    "example": "Quiero mandar.",
+    "category": "communication"
+  },
+  {
+    "id": 137,
+    "spanish": "manejar",
+    "english": "to drive / to manage",
+    "partOfSpeech": "verb",
+    "example": "Voy a manejar mañana.",
+    "category": "transportation"
+  },
+  {
+    "id": 138,
+    "spanish": "mantener",
+    "english": "to maintain",
+    "partOfSpeech": "verb",
+    "example": "No puedo mantener ahora.",
+    "category": "general"
+  },
+  {
+    "id": 139,
+    "spanish": "marcar",
+    "english": "to mark / to dial",
+    "partOfSpeech": "verb",
+    "example": "Ella marca cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 140,
+    "spanish": "matar",
+    "english": "to kill",
+    "partOfSpeech": "verb",
+    "example": "Yo mato todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 141,
+    "spanish": "medir",
+    "english": "to measure",
+    "partOfSpeech": "verb",
+    "example": "Quiero medir.",
+    "category": "general"
+  },
+  {
+    "id": 142,
+    "spanish": "mejorar",
+    "english": "to improve",
+    "partOfSpeech": "verb",
+    "example": "Voy a mejorar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 143,
+    "spanish": "mencionar",
+    "english": "to mention",
+    "partOfSpeech": "verb",
+    "example": "No puedo mencionar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 144,
+    "spanish": "mentir",
+    "english": "to lie",
+    "partOfSpeech": "verb",
+    "example": "Ella miente cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 145,
+    "spanish": "meter",
+    "english": "to put in",
+    "partOfSpeech": "verb",
+    "example": "Yo meto todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 146,
+    "spanish": "mirar",
+    "english": "to look at",
+    "partOfSpeech": "verb",
+    "example": "Quiero mirar.",
+    "category": "general"
+  },
+  {
+    "id": 147,
+    "spanish": "molestar",
+    "english": "to bother",
+    "partOfSpeech": "verb",
+    "example": "Voy a molestar mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 148,
+    "spanish": "montar",
+    "english": "to ride / to set up",
+    "partOfSpeech": "verb",
+    "example": "No puedo montar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 149,
+    "spanish": "morir",
+    "english": "to die",
+    "partOfSpeech": "verb",
+    "example": "Ella muere cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 150,
+    "spanish": "mostrar",
+    "english": "to show",
+    "partOfSpeech": "verb",
+    "example": "Yo muestro todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 151,
+    "spanish": "mover",
+    "english": "to move",
+    "partOfSpeech": "verb",
+    "example": "Quiero mover.",
+    "category": "general"
+  },
+  {
+    "id": 152,
+    "spanish": "nacer",
+    "english": "to be born",
+    "partOfSpeech": "verb",
+    "example": "Voy a nacer mañana.",
+    "category": "family"
+  },
+  {
+    "id": 153,
+    "spanish": "nadar",
+    "english": "to swim",
+    "partOfSpeech": "verb",
+    "example": "No puedo nadar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 154,
+    "spanish": "negar",
+    "english": "to deny",
+    "partOfSpeech": "verb",
+    "example": "Ella niega cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 155,
+    "spanish": "obedecer",
+    "english": "to obey",
+    "partOfSpeech": "verb",
+    "example": "Yo obedezco todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 156,
+    "spanish": "obligar",
+    "english": "to force",
+    "partOfSpeech": "verb",
+    "example": "Quiero obligar.",
+    "category": "general"
+  },
+  {
+    "id": 157,
+    "spanish": "observar",
+    "english": "to observe",
+    "partOfSpeech": "verb",
+    "example": "Voy a observar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 158,
+    "spanish": "obtener",
+    "english": "to obtain",
+    "partOfSpeech": "verb",
+    "example": "No puedo obtener ahora.",
+    "category": "general"
+  },
+  {
+    "id": 159,
+    "spanish": "ocurrir",
+    "english": "to occur",
+    "partOfSpeech": "verb",
+    "example": "Ella ocurre cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 160,
+    "spanish": "odiar",
+    "english": "to hate",
+    "partOfSpeech": "verb",
+    "example": "Yo odio todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 161,
+    "spanish": "ofrecer",
+    "english": "to offer",
+    "partOfSpeech": "verb",
+    "example": "Quiero ofrecer.",
+    "category": "work"
+  },
+  {
+    "id": 162,
+    "spanish": "oír",
+    "english": "to hear",
+    "partOfSpeech": "verb",
+    "example": "Voy a oír mañana.",
+    "category": "general"
+  },
+  {
+    "id": 163,
+    "spanish": "olvidar",
+    "english": "to forget",
+    "partOfSpeech": "verb",
+    "example": "No puedo olvidar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 164,
+    "spanish": "opinar",
+    "english": "to think / to opine",
+    "partOfSpeech": "verb",
+    "example": "Ella opina cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 165,
+    "spanish": "organizar",
+    "english": "to organize",
+    "partOfSpeech": "verb",
+    "example": "Yo organizo todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 166,
+    "spanish": "pagar",
+    "english": "to pay",
+    "partOfSpeech": "verb",
+    "example": "Quiero pagar.",
+    "category": "city"
+  },
+  {
+    "id": 167,
+    "spanish": "parar",
+    "english": "to stop",
+    "partOfSpeech": "verb",
+    "example": "Voy a parar mañana.",
+    "category": "transportation"
+  },
+  {
+    "id": 168,
+    "spanish": "participar",
+    "english": "to participate",
+    "partOfSpeech": "verb",
+    "example": "No puedo participar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 169,
+    "spanish": "partir",
+    "english": "to leave / to split",
+    "partOfSpeech": "verb",
+    "example": "Ella parte cada semana.",
+    "category": "travel"
+  },
+  {
+    "id": 170,
+    "spanish": "pasear",
+    "english": "to stroll",
+    "partOfSpeech": "verb",
+    "example": "Yo paseo todos los días.",
+    "category": "city"
+  },
+  {
+    "id": 171,
+    "spanish": "pedir",
+    "english": "to ask for / to order",
+    "partOfSpeech": "verb",
+    "example": "Quiero pedir.",
+    "category": "food"
+  },
+  {
+    "id": 172,
+    "spanish": "pegar",
+    "english": "to hit / to stick",
+    "partOfSpeech": "verb",
+    "example": "Voy a pegar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 173,
+    "spanish": "peinar",
+    "english": "to comb",
+    "partOfSpeech": "verb",
+    "example": "No puedo peinar ahora.",
+    "category": "health"
+  },
+  {
+    "id": 174,
+    "spanish": "pelear",
+    "english": "to fight",
+    "partOfSpeech": "verb",
+    "example": "Ella pelea cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 175,
+    "spanish": "perder",
+    "english": "to lose",
+    "partOfSpeech": "verb",
+    "example": "Yo pierdo todos los días.",
+    "category": "sports"
+  },
+  {
+    "id": 176,
+    "spanish": "perdonar",
+    "english": "to forgive",
+    "partOfSpeech": "verb",
+    "example": "Quiero perdonar.",
+    "category": "emotions"
+  },
+  {
+    "id": 177,
+    "spanish": "permitir",
+    "english": "to allow",
+    "partOfSpeech": "verb",
+    "example": "Voy a permitir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 178,
+    "spanish": "perseguir",
+    "english": "to chase",
+    "partOfSpeech": "verb",
+    "example": "No puedo perseguir ahora.",
+    "category": "general"
+  },
+  {
+    "id": 179,
+    "spanish": "pertenecer",
+    "english": "to belong",
+    "partOfSpeech": "verb",
+    "example": "Ella pertenece cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 180,
+    "spanish": "pesar",
+    "english": "to weigh",
+    "partOfSpeech": "verb",
+    "example": "Yo peso todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 181,
+    "spanish": "pintar",
+    "english": "to paint",
+    "partOfSpeech": "verb",
+    "example": "Quiero pintar.",
+    "category": "school"
+  },
+  {
+    "id": 182,
+    "spanish": "planear",
+    "english": "to plan",
+    "partOfSpeech": "verb",
+    "example": "Voy a planear mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 183,
+    "spanish": "practicar",
+    "english": "to practice",
+    "partOfSpeech": "verb",
+    "example": "No puedo practicar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 184,
+    "spanish": "preferir",
+    "english": "to prefer",
+    "partOfSpeech": "verb",
+    "example": "Ella prefiere cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 185,
+    "spanish": "preguntar",
+    "english": "to ask",
+    "partOfSpeech": "verb",
+    "example": "Yo pregunto todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 186,
+    "spanish": "preocupar",
+    "english": "to worry",
+    "partOfSpeech": "verb",
+    "example": "Quiero preocupar.",
+    "category": "emotions"
+  },
+  {
+    "id": 187,
+    "spanish": "preparar",
+    "english": "to prepare",
+    "partOfSpeech": "verb",
+    "example": "Voy a preparar mañana.",
+    "category": "food"
+  },
+  {
+    "id": 188,
+    "spanish": "presentar",
+    "english": "to present / to introduce",
+    "partOfSpeech": "verb",
+    "example": "No puedo presentar ahora.",
+    "category": "work"
+  },
+  {
+    "id": 189,
+    "spanish": "prestar",
+    "english": "to lend",
+    "partOfSpeech": "verb",
+    "example": "Ella presta cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 190,
+    "spanish": "prevenir",
+    "english": "to prevent",
+    "partOfSpeech": "verb",
+    "example": "Yo preveno todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 191,
+    "spanish": "probar",
+    "english": "to try / to taste",
+    "partOfSpeech": "verb",
+    "example": "Quiero probar.",
+    "category": "food"
+  },
+  {
+    "id": 192,
+    "spanish": "producir",
+    "english": "to produce",
+    "partOfSpeech": "verb",
+    "example": "Voy a producir mañana.",
+    "category": "work"
+  },
+  {
+    "id": 193,
+    "spanish": "prometer",
+    "english": "to promise",
+    "partOfSpeech": "verb",
+    "example": "No puedo prometer ahora.",
+    "category": "general"
+  },
+  {
+    "id": 194,
+    "spanish": "proteger",
+    "english": "to protect",
+    "partOfSpeech": "verb",
+    "example": "Ella protege cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 195,
+    "spanish": "protestar",
+    "english": "to protest",
+    "partOfSpeech": "verb",
+    "example": "Yo protesto todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 196,
+    "spanish": "publicar",
+    "english": "to publish",
+    "partOfSpeech": "verb",
+    "example": "Quiero publicar.",
+    "category": "technology"
+  },
+  {
+    "id": 197,
+    "spanish": "quejar",
+    "english": "to complain",
+    "partOfSpeech": "verb",
+    "example": "Voy a quejar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 198,
+    "spanish": "quemar",
+    "english": "to burn",
+    "partOfSpeech": "verb",
+    "example": "No puedo quemar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 199,
+    "spanish": "quitar",
+    "english": "to remove",
+    "partOfSpeech": "verb",
+    "example": "Ella quita cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 200,
+    "spanish": "recibir",
+    "english": "to receive",
+    "partOfSpeech": "verb",
+    "example": "Yo recibo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 201,
+    "spanish": "reconocer",
+    "english": "to recognize",
+    "partOfSpeech": "verb",
+    "example": "Quiero reconocer.",
+    "category": "general"
+  },
+  {
+    "id": 202,
+    "spanish": "recordar",
+    "english": "to remember",
+    "partOfSpeech": "verb",
+    "example": "Voy a recordar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 203,
+    "spanish": "reducir",
+    "english": "to reduce",
+    "partOfSpeech": "verb",
+    "example": "No puedo reducir ahora.",
+    "category": "general"
+  },
+  {
+    "id": 204,
+    "spanish": "regalar",
+    "english": "to give (a gift)",
+    "partOfSpeech": "verb",
+    "example": "Ella regala cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 205,
+    "spanish": "regresar",
+    "english": "to go back",
+    "partOfSpeech": "verb",
+    "example": "Yo regreso todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 206,
+    "spanish": "reír",
+    "english": "to laugh",
+    "partOfSpeech": "verb",
+    "example": "Quiero reír.",
+    "category": "emotions"
+  },
+  {
+    "id": 207,
+    "spanish": "relacionar",
+    "english": "to relate",
+    "partOfSpeech": "verb",
+    "example": "Voy a relacionar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 208,
+    "spanish": "repetir",
+    "english": "to repeat",
+    "partOfSpeech": "verb",
+    "example": "No puedo repetir ahora.",
+    "category": "school"
+  },
+  {
+    "id": 209,
+    "spanish": "representar",
+    "english": "to represent",
+    "partOfSpeech": "verb",
+    "example": "Ella representa cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 210,
+    "spanish": "resolver",
+    "english": "to solve",
+    "partOfSpeech": "verb",
+    "example": "Yo resuelvo todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 211,
+    "spanish": "respetar",
+    "english": "to respect",
+    "partOfSpeech": "verb",
+    "example": "Quiero respetar.",
+    "category": "general"
+  },
+  {
+    "id": 212,
+    "spanish": "respirar",
+    "english": "to breathe",
+    "partOfSpeech": "verb",
+    "example": "Voy a respirar mañana.",
+    "category": "health"
+  },
+  {
+    "id": 213,
+    "spanish": "responder",
+    "english": "to respond",
+    "partOfSpeech": "verb",
+    "example": "No puedo responder ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 214,
+    "spanish": "resultar",
+    "english": "to result",
+    "partOfSpeech": "verb",
+    "example": "Ella resulta cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 215,
+    "spanish": "reunir",
+    "english": "to gather",
+    "partOfSpeech": "verb",
+    "example": "Yo reuno todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 216,
+    "spanish": "robar",
+    "english": "to steal",
+    "partOfSpeech": "verb",
+    "example": "Quiero robar.",
+    "category": "general"
+  },
+  {
+    "id": 217,
+    "spanish": "romper",
+    "english": "to break",
+    "partOfSpeech": "verb",
+    "example": "Voy a romper mañana.",
+    "category": "general"
+  },
+  {
+    "id": 218,
+    "spanish": "sacar",
+    "english": "to take out",
+    "partOfSpeech": "verb",
+    "example": "No puedo sacar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 219,
+    "spanish": "saltar",
+    "english": "to jump",
+    "partOfSpeech": "verb",
+    "example": "Ella salta cada semana.",
+    "category": "sports"
+  },
+  {
+    "id": 220,
+    "spanish": "saludar",
+    "english": "to greet",
+    "partOfSpeech": "verb",
+    "example": "Yo saludo todos los días.",
+    "category": "communication"
+  },
+  {
+    "id": 221,
+    "spanish": "salvar",
+    "english": "to save (rescue)",
+    "partOfSpeech": "verb",
+    "example": "Quiero salvar.",
+    "category": "health"
+  },
+  {
+    "id": 222,
+    "spanish": "secar",
+    "english": "to dry",
+    "partOfSpeech": "verb",
+    "example": "Voy a secar mañana.",
+    "category": "house"
+  },
+  {
+    "id": 223,
+    "spanish": "seguir",
+    "english": "to follow / to continue",
+    "partOfSpeech": "verb",
+    "example": "No puedo seguir ahora.",
+    "category": "general"
+  },
+  {
+    "id": 224,
+    "spanish": "sembrar",
+    "english": "to plant (seeds)",
+    "partOfSpeech": "verb",
+    "example": "Ella sembra cada semana.",
+    "category": "nature"
+  },
+  {
+    "id": 225,
+    "spanish": "señalar",
+    "english": "to point out",
+    "partOfSpeech": "verb",
+    "example": "Yo señalo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 226,
+    "spanish": "servir",
+    "english": "to serve",
+    "partOfSpeech": "verb",
+    "example": "Quiero servir.",
+    "category": "food"
+  },
+  {
+    "id": 227,
+    "spanish": "significar",
+    "english": "to mean",
+    "partOfSpeech": "verb",
+    "example": "Voy a significar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 228,
+    "spanish": "soltar",
+    "english": "to release",
+    "partOfSpeech": "verb",
+    "example": "No puedo soltar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 229,
+    "spanish": "sonar",
+    "english": "to sound / to ring",
+    "partOfSpeech": "verb",
+    "example": "Ella suena cada semana.",
+    "category": "technology"
+  },
+  {
+    "id": 230,
+    "spanish": "sonreír",
+    "english": "to smile",
+    "partOfSpeech": "verb",
+    "example": "Yo sonrío todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 231,
+    "spanish": "soñar",
+    "english": "to dream",
+    "partOfSpeech": "verb",
+    "example": "Quiero soñar.",
+    "category": "emotions"
+  },
+  {
+    "id": 232,
+    "spanish": "sorprender",
+    "english": "to surprise",
+    "partOfSpeech": "verb",
+    "example": "Voy a sorprender mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 233,
+    "spanish": "subir",
+    "english": "to go up / to upload",
+    "partOfSpeech": "verb",
+    "example": "No puedo subir ahora.",
+    "category": "technology"
+  },
+  {
+    "id": 234,
+    "spanish": "suceder",
+    "english": "to happen",
+    "partOfSpeech": "verb",
+    "example": "Ella sucede cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 235,
+    "spanish": "sufrir",
+    "english": "to suffer",
+    "partOfSpeech": "verb",
+    "example": "Yo sufro todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 236,
+    "spanish": "sugerir",
+    "english": "to suggest",
+    "partOfSpeech": "verb",
+    "example": "Quiero sugerir.",
+    "category": "communication"
+  },
+  {
+    "id": 237,
+    "spanish": "sumar",
+    "english": "to add up",
+    "partOfSpeech": "verb",
+    "example": "Voy a sumar mañana.",
+    "category": "school"
+  },
+  {
+    "id": 238,
+    "spanish": "suponer",
+    "english": "to suppose",
+    "partOfSpeech": "verb",
+    "example": "No puedo suponer ahora.",
+    "category": "general"
+  },
+  {
+    "id": 239,
+    "spanish": "tardar",
+    "english": "to take (time)",
+    "partOfSpeech": "verb",
+    "example": "Ella tarda cada semana.",
+    "category": "time"
+  },
+  {
+    "id": 240,
+    "spanish": "temer",
+    "english": "to fear",
+    "partOfSpeech": "verb",
+    "example": "Yo temo todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 241,
+    "spanish": "tirar",
+    "english": "to throw / to pull",
+    "partOfSpeech": "verb",
+    "example": "Quiero tirar.",
+    "category": "general"
+  },
+  {
+    "id": 242,
+    "spanish": "tocar",
+    "english": "to touch / to play (music)",
+    "partOfSpeech": "verb",
+    "example": "Voy a tocar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 243,
+    "spanish": "traducir",
+    "english": "to translate",
+    "partOfSpeech": "verb",
+    "example": "No puedo traducir ahora.",
+    "category": "school"
+  },
+  {
+    "id": 244,
+    "spanish": "traer",
+    "english": "to bring",
+    "partOfSpeech": "verb",
+    "example": "Ella trae cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 245,
+    "spanish": "tratar",
+    "english": "to treat / to try",
+    "partOfSpeech": "verb",
+    "example": "Yo trato todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 246,
+    "spanish": "unir",
+    "english": "to unite",
+    "partOfSpeech": "verb",
+    "example": "Quiero unir.",
+    "category": "general"
+  },
+  {
+    "id": 247,
+    "spanish": "usar",
+    "english": "to use",
+    "partOfSpeech": "verb",
+    "example": "Voy a usar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 248,
+    "spanish": "utilizar",
+    "english": "to use / to utilize",
+    "partOfSpeech": "verb",
+    "example": "No puedo utilizar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 249,
+    "spanish": "vender",
+    "english": "to sell",
+    "partOfSpeech": "verb",
+    "example": "Ella vende cada semana.",
+    "category": "city"
+  },
+  {
+    "id": 250,
+    "spanish": "viajar",
+    "english": "to travel",
+    "partOfSpeech": "verb",
+    "example": "Yo viajo todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 251,
+    "spanish": "visitar",
+    "english": "to visit",
+    "partOfSpeech": "verb",
+    "example": "Quiero visitar.",
+    "category": "travel"
+  },
+  {
+    "id": 252,
+    "spanish": "volar",
+    "english": "to fly",
+    "partOfSpeech": "verb",
+    "example": "Voy a volar mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 253,
+    "spanish": "votar",
+    "english": "to vote",
+    "partOfSpeech": "verb",
+    "example": "No puedo votar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 254,
+    "spanish": "vestir",
+    "english": "to dress",
+    "partOfSpeech": "verb",
+    "example": "Ella viste cada semana.",
+    "category": "clothing"
+  },
+  {
+    "id": 255,
+    "spanish": "despedir",
+    "english": "to say goodbye / to fire",
+    "partOfSpeech": "verb",
+    "example": "Yo despido todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 256,
+    "spanish": "nevar",
+    "english": "to snow",
+    "partOfSpeech": "verb",
+    "example": "Quiero nevar.",
+    "category": "weather"
+  },
+  {
+    "id": 257,
+    "spanish": "llover",
+    "english": "to rain",
+    "partOfSpeech": "verb",
+    "example": "Voy a llover mañana.",
+    "category": "weather"
+  },
+  {
+    "id": 258,
+    "spanish": "amanecer",
+    "english": "to dawn",
+    "partOfSpeech": "verb",
+    "example": "No puedo amanecer ahora.",
+    "category": "weather"
+  },
+  {
+    "id": 259,
+    "spanish": "anochecer",
+    "english": "to get dark",
+    "partOfSpeech": "verb",
+    "example": "Ella anochece cada semana.",
+    "category": "weather"
+  },
+  {
+    "id": 260,
+    "spanish": "bañar",
+    "english": "to bathe",
+    "partOfSpeech": "verb",
+    "example": "Yo baño todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 261,
+    "spanish": "afeitar",
+    "english": "to shave",
+    "partOfSpeech": "verb",
+    "example": "Quiero afeitar.",
+    "category": "health"
+  },
+  {
+    "id": 262,
+    "spanish": "acabar",
+    "english": "to finish / to run out",
+    "partOfSpeech": "verb",
+    "example": "Voy a acabar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 263,
+    "spanish": "aceptar",
+    "english": "to accept",
+    "partOfSpeech": "verb",
+    "example": "No puedo aceptar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 264,
+    "spanish": "acompañar",
+    "english": "to accompany",
+    "partOfSpeech": "verb",
+    "example": "Ella acompaña cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 265,
+    "spanish": "aconsejar",
+    "english": "to advise",
+    "partOfSpeech": "verb",
+    "example": "Yo aconsejo todos los días.",
+    "category": "communication"
+  },
+  {
+    "id": 266,
+    "spanish": "acordar",
+    "english": "to agree / to remember",
+    "partOfSpeech": "verb",
+    "example": "Quiero acordar.",
+    "category": "general"
+  },
+  {
+    "id": 267,
+    "spanish": "acostar",
+    "english": "to put to bed",
+    "partOfSpeech": "verb",
+    "example": "Voy a acostar mañana.",
+    "category": "health"
+  },
+  {
+    "id": 268,
+    "spanish": "actuar",
+    "english": "to act",
+    "partOfSpeech": "verb",
+    "example": "No puedo actuar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 269,
+    "spanish": "adivinar",
+    "english": "to guess",
+    "partOfSpeech": "verb",
+    "example": "Ella adivina cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 270,
+    "spanish": "admirar",
+    "english": "to admire",
+    "partOfSpeech": "verb",
+    "example": "Yo admiro todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 271,
+    "spanish": "admitir",
+    "english": "to admit",
+    "partOfSpeech": "verb",
+    "example": "Quiero admitir.",
+    "category": "general"
+  },
+  {
+    "id": 272,
+    "spanish": "adornar",
+    "english": "to decorate",
+    "partOfSpeech": "verb",
+    "example": "Voy a adornar mañana.",
+    "category": "house"
+  },
+  {
+    "id": 273,
+    "spanish": "advertir",
+    "english": "to warn",
+    "partOfSpeech": "verb",
+    "example": "No puedo advertir ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 274,
+    "spanish": "agradecer",
+    "english": "to thank",
+    "partOfSpeech": "verb",
+    "example": "Ella agradece cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 275,
+    "spanish": "alcanzar",
+    "english": "to reach",
+    "partOfSpeech": "verb",
+    "example": "Yo alcanzo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 276,
+    "spanish": "alegrar",
+    "english": "to make happy",
+    "partOfSpeech": "verb",
+    "example": "Quiero alegrar.",
+    "category": "emotions"
+  },
+  {
+    "id": 277,
+    "spanish": "alquilar",
+    "english": "to rent",
+    "partOfSpeech": "verb",
+    "example": "Voy a alquilar mañana.",
+    "category": "city"
+  },
+  {
+    "id": 278,
+    "spanish": "alzar",
+    "english": "to lift",
+    "partOfSpeech": "verb",
+    "example": "No puedo alzar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 279,
+    "spanish": "amar",
+    "english": "to love",
+    "partOfSpeech": "verb",
+    "example": "Ella ama cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 280,
+    "spanish": "anotar",
+    "english": "to jot down",
+    "partOfSpeech": "verb",
+    "example": "Yo anoto todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 281,
+    "spanish": "anunciar",
+    "english": "to announce",
+    "partOfSpeech": "verb",
+    "example": "Quiero anunciar.",
+    "category": "communication"
+  },
+  {
+    "id": 282,
+    "spanish": "apagar",
+    "english": "to turn off",
+    "partOfSpeech": "verb",
+    "example": "Voy a apagar mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 283,
+    "spanish": "aparecer",
+    "english": "to appear",
+    "partOfSpeech": "verb",
+    "example": "No puedo aparecer ahora.",
+    "category": "general"
+  },
+  {
+    "id": 284,
+    "spanish": "aplicar",
+    "english": "to apply",
+    "partOfSpeech": "verb",
+    "example": "Ella aplica cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 285,
+    "spanish": "apoyar",
+    "english": "to support",
+    "partOfSpeech": "verb",
+    "example": "Yo apoyo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 286,
+    "spanish": "apreciar",
+    "english": "to appreciate",
+    "partOfSpeech": "verb",
+    "example": "Quiero apreciar.",
+    "category": "emotions"
+  },
+  {
+    "id": 287,
+    "spanish": "apretar",
+    "english": "to squeeze / to tighten",
+    "partOfSpeech": "verb",
+    "example": "Voy a apretar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 288,
+    "spanish": "aprobar",
+    "english": "to approve / to pass (an exam)",
+    "partOfSpeech": "verb",
+    "example": "No puedo aprobar ahora.",
+    "category": "school"
+  },
+  {
+    "id": 289,
+    "spanish": "apuntar",
+    "english": "to point / to write down",
+    "partOfSpeech": "verb",
+    "example": "Ella apunta cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 290,
+    "spanish": "arreglar",
+    "english": "to fix",
+    "partOfSpeech": "verb",
+    "example": "Yo arreglo todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 291,
+    "spanish": "arriesgar",
+    "english": "to risk",
+    "partOfSpeech": "verb",
+    "example": "Quiero arriesgar.",
+    "category": "general"
+  },
+  {
+    "id": 292,
+    "spanish": "arrojar",
+    "english": "to throw",
+    "partOfSpeech": "verb",
+    "example": "Voy a arrojar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 293,
+    "spanish": "asegurar",
+    "english": "to assure / to insure",
+    "partOfSpeech": "verb",
+    "example": "No puedo asegurar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 294,
+    "spanish": "asistir",
+    "english": "to attend",
+    "partOfSpeech": "verb",
+    "example": "Ella asiste cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 295,
+    "spanish": "asustar",
+    "english": "to scare",
+    "partOfSpeech": "verb",
+    "example": "Yo asusto todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 296,
+    "spanish": "atacar",
+    "english": "to attack",
+    "partOfSpeech": "verb",
+    "example": "Quiero atacar.",
+    "category": "general"
+  },
+  {
+    "id": 297,
+    "spanish": "atender",
+    "english": "to attend to",
+    "partOfSpeech": "verb",
+    "example": "Voy a atender mañana.",
+    "category": "work"
+  },
+  {
+    "id": 298,
+    "spanish": "atrapar",
+    "english": "to catch",
+    "partOfSpeech": "verb",
+    "example": "No puedo atrapar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 299,
+    "spanish": "atreverse",
+    "english": "to dare",
+    "partOfSpeech": "verb",
+    "example": "Ella se atreve cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 300,
+    "spanish": "aumentar",
+    "english": "to increase",
+    "partOfSpeech": "verb",
+    "example": "Yo aumento todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 301,
+    "spanish": "avanzar",
+    "english": "to advance",
+    "partOfSpeech": "verb",
+    "example": "Quiero avanzar.",
+    "category": "general"
+  },
+  {
+    "id": 302,
+    "spanish": "averiguar",
+    "english": "to find out",
+    "partOfSpeech": "verb",
+    "example": "Voy a averiguar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 303,
+    "spanish": "avisar",
+    "english": "to notify",
+    "partOfSpeech": "verb",
+    "example": "No puedo avisar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 304,
+    "spanish": "bailar",
+    "english": "to dance",
+    "partOfSpeech": "verb",
+    "example": "Ella baila cada semana.",
+    "category": "sports"
+  },
+  {
+    "id": 305,
+    "spanish": "bajar",
+    "english": "to go down / to download",
+    "partOfSpeech": "verb",
+    "example": "Yo bajo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 306,
+    "spanish": "besar",
+    "english": "to kiss",
+    "partOfSpeech": "verb",
+    "example": "Quiero besar.",
+    "category": "emotions"
+  },
+  {
+    "id": 307,
+    "spanish": "borrar",
+    "english": "to erase",
+    "partOfSpeech": "verb",
+    "example": "Voy a borrar mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 308,
+    "spanish": "botar",
+    "english": "to bounce / to throw away",
+    "partOfSpeech": "verb",
+    "example": "No puedo botar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 309,
+    "spanish": "bromear",
+    "english": "to joke",
+    "partOfSpeech": "verb",
+    "example": "Ella bromea cada semana.",
+    "category": "communication"
+  },
+  {
+    "id": 310,
+    "spanish": "brillar",
+    "english": "to shine",
+    "partOfSpeech": "verb",
+    "example": "Yo brillo todos los días.",
+    "category": "nature"
+  },
+  {
+    "id": 311,
+    "spanish": "calcular",
+    "english": "to calculate",
+    "partOfSpeech": "verb",
+    "example": "Quiero calcular.",
+    "category": "school"
+  },
+  {
+    "id": 312,
+    "spanish": "calentar",
+    "english": "to heat up",
+    "partOfSpeech": "verb",
+    "example": "Voy a calentar mañana.",
+    "category": "food"
+  },
+  {
+    "id": 313,
+    "spanish": "callar",
+    "english": "to be quiet",
+    "partOfSpeech": "verb",
+    "example": "No puedo callar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 314,
+    "spanish": "cargar",
+    "english": "to load / to charge",
+    "partOfSpeech": "verb",
+    "example": "Ella carga cada semana.",
+    "category": "technology"
+  },
+  {
+    "id": 315,
+    "spanish": "casar",
+    "english": "to marry",
+    "partOfSpeech": "verb",
+    "example": "Yo caso todos los días.",
+    "category": "family"
+  },
+  {
+    "id": 316,
+    "spanish": "castigar",
+    "english": "to punish",
+    "partOfSpeech": "verb",
+    "example": "Quiero castigar.",
+    "category": "general"
+  },
+  {
+    "id": 317,
+    "spanish": "charlar",
+    "english": "to chat",
+    "partOfSpeech": "verb",
+    "example": "Voy a charlar mañana.",
+    "category": "communication"
+  },
+  {
+    "id": 318,
+    "spanish": "chocar",
+    "english": "to crash",
+    "partOfSpeech": "verb",
+    "example": "No puedo chocar ahora.",
+    "category": "transportation"
+  },
+  {
+    "id": 319,
+    "spanish": "clasificar",
+    "english": "to classify",
+    "partOfSpeech": "verb",
+    "example": "Ella clasifica cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 320,
+    "spanish": "cobrar",
+    "english": "to charge (money)",
+    "partOfSpeech": "verb",
+    "example": "Yo cobro todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 321,
+    "spanish": "coincidir",
+    "english": "to coincide",
+    "partOfSpeech": "verb",
+    "example": "Quiero coincidir.",
+    "category": "general"
+  },
+  {
+    "id": 322,
+    "spanish": "colaborar",
+    "english": "to collaborate",
+    "partOfSpeech": "verb",
+    "example": "Voy a colaborar mañana.",
+    "category": "work"
+  },
+  {
+    "id": 323,
+    "spanish": "colgar",
+    "english": "to hang",
+    "partOfSpeech": "verb",
+    "example": "No puedo colgar ahora.",
+    "category": "house"
+  },
+  {
+    "id": 324,
+    "spanish": "colocar",
+    "english": "to place",
+    "partOfSpeech": "verb",
+    "example": "Ella coloca cada semana.",
+    "category": "house"
+  },
+  {
+    "id": 325,
+    "spanish": "combinar",
+    "english": "to combine",
+    "partOfSpeech": "verb",
+    "example": "Yo combino todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 326,
+    "spanish": "comentar",
+    "english": "to comment",
+    "partOfSpeech": "verb",
+    "example": "Quiero comentar.",
+    "category": "communication"
+  },
+  {
+    "id": 327,
+    "spanish": "comprobar",
+    "english": "to verify",
+    "partOfSpeech": "verb",
+    "example": "Voy a comprobar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 328,
+    "spanish": "comunicar",
+    "english": "to communicate",
+    "partOfSpeech": "verb",
+    "example": "No puedo comunicar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 329,
+    "spanish": "conectar",
+    "english": "to connect",
+    "partOfSpeech": "verb",
+    "example": "Ella conecta cada semana.",
+    "category": "technology"
+  },
+  {
+    "id": 330,
+    "spanish": "confesar",
+    "english": "to confess",
+    "partOfSpeech": "verb",
+    "example": "Yo confeso todos los días.",
+    "category": "communication"
+  },
+  {
+    "id": 331,
+    "spanish": "confiar",
+    "english": "to trust",
+    "partOfSpeech": "verb",
+    "example": "Quiero confiar.",
+    "category": "emotions"
+  },
+  {
+    "id": 332,
+    "spanish": "confirmar",
+    "english": "to confirm",
+    "partOfSpeech": "verb",
+    "example": "Voy a confirmar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 333,
+    "spanish": "congelar",
+    "english": "to freeze",
+    "partOfSpeech": "verb",
+    "example": "No puedo congelar ahora.",
+    "category": "food"
+  },
+  {
+    "id": 334,
+    "spanish": "conquistar",
+    "english": "to conquer",
+    "partOfSpeech": "verb",
+    "example": "Ella conquista cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 335,
+    "spanish": "consistir",
+    "english": "to consist of",
+    "partOfSpeech": "verb",
+    "example": "Yo consisto todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 336,
+    "spanish": "consultar",
+    "english": "to consult",
+    "partOfSpeech": "verb",
+    "example": "Quiero consultar.",
+    "category": "work"
+  },
+  {
+    "id": 337,
+    "spanish": "consumir",
+    "english": "to consume",
+    "partOfSpeech": "verb",
+    "example": "Voy a consumir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 338,
+    "spanish": "contactar",
+    "english": "to contact",
+    "partOfSpeech": "verb",
+    "example": "No puedo contactar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 339,
+    "spanish": "contaminar",
+    "english": "to pollute",
+    "partOfSpeech": "verb",
+    "example": "Ella contamina cada semana.",
+    "category": "nature"
+  },
+  {
+    "id": 340,
+    "spanish": "contener",
+    "english": "to contain",
+    "partOfSpeech": "verb",
+    "example": "Yo conteno todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 341,
+    "spanish": "contribuir",
+    "english": "to contribute",
+    "partOfSpeech": "verb",
+    "example": "Quiero contribuir.",
+    "category": "general"
+  },
+  {
+    "id": 342,
+    "spanish": "controlar",
+    "english": "to control",
+    "partOfSpeech": "verb",
+    "example": "Voy a controlar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 343,
+    "spanish": "convencer",
+    "english": "to convince",
+    "partOfSpeech": "verb",
+    "example": "No puedo convencer ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 344,
+    "spanish": "convertir",
+    "english": "to convert",
+    "partOfSpeech": "verb",
+    "example": "Ella converte cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 345,
+    "spanish": "copiar",
+    "english": "to copy",
+    "partOfSpeech": "verb",
+    "example": "Yo copio todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 346,
+    "spanish": "coser",
+    "english": "to sew",
+    "partOfSpeech": "verb",
+    "example": "Quiero coser.",
+    "category": "clothing"
+  },
+  {
+    "id": 347,
+    "spanish": "criar",
+    "english": "to raise (children)",
+    "partOfSpeech": "verb",
+    "example": "Voy a criar mañana.",
+    "category": "family"
+  },
+  {
+    "id": 348,
+    "spanish": "criticar",
+    "english": "to criticize",
+    "partOfSpeech": "verb",
+    "example": "No puedo criticar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 349,
+    "spanish": "cultivar",
+    "english": "to cultivate",
+    "partOfSpeech": "verb",
+    "example": "Ella cultiva cada semana.",
+    "category": "nature"
+  },
+  {
+    "id": 350,
+    "spanish": "curar",
+    "english": "to cure",
+    "partOfSpeech": "verb",
+    "example": "Yo curo todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 351,
+    "spanish": "dañar",
+    "english": "to damage",
+    "partOfSpeech": "verb",
+    "example": "Quiero dañar.",
+    "category": "general"
+  },
+  {
+    "id": 352,
+    "spanish": "debatir",
+    "english": "to debate",
+    "partOfSpeech": "verb",
+    "example": "Voy a debatir mañana.",
+    "category": "communication"
+  },
+  {
+    "id": 353,
+    "spanish": "declarar",
+    "english": "to declare",
+    "partOfSpeech": "verb",
+    "example": "No puedo declarar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 354,
+    "spanish": "dedicarse",
+    "english": "to dedicate oneself",
+    "partOfSpeech": "verb",
+    "example": "Yo me dedico todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 355,
+    "spanish": "desaparecer",
+    "english": "to disappear",
+    "partOfSpeech": "verb",
+    "example": "Yo desapareco todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 356,
+    "spanish": "desarrollar",
+    "english": "to develop",
+    "partOfSpeech": "verb",
+    "example": "Quiero desarrollar.",
+    "category": "work"
+  },
+  {
+    "id": 357,
+    "spanish": "descargar",
+    "english": "to download",
+    "partOfSpeech": "verb",
+    "example": "Voy a descargar mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 358,
+    "spanish": "desperdiciar",
+    "english": "to waste",
+    "partOfSpeech": "verb",
+    "example": "No puedo desperdiciar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 359,
+    "spanish": "diseñar",
+    "english": "to design",
+    "partOfSpeech": "verb",
+    "example": "Ella diseña cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 360,
+    "spanish": "disminuir",
+    "english": "to decrease",
+    "partOfSpeech": "verb",
+    "example": "Yo disminuo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 361,
+    "spanish": "disparar",
+    "english": "to shoot",
+    "partOfSpeech": "verb",
+    "example": "Quiero disparar.",
+    "category": "general"
+  },
+  {
+    "id": 362,
+    "spanish": "distinguir",
+    "english": "to distinguish",
+    "partOfSpeech": "verb",
+    "example": "Voy a distinguir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 363,
+    "spanish": "distribuir",
+    "english": "to distribute",
+    "partOfSpeech": "verb",
+    "example": "No puedo distribuir ahora.",
+    "category": "work"
+  },
+  {
+    "id": 364,
+    "spanish": "divertir",
+    "english": "to have fun",
+    "partOfSpeech": "verb",
+    "example": "Ella diverte cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 365,
+    "spanish": "dividir",
+    "english": "to divide",
+    "partOfSpeech": "verb",
+    "example": "Yo divido todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 366,
+    "spanish": "doblar",
+    "english": "to fold / to turn",
+    "partOfSpeech": "verb",
+    "example": "Quiero doblar.",
+    "category": "general"
+  },
+  {
+    "id": 367,
+    "spanish": "editar",
+    "english": "to edit",
+    "partOfSpeech": "verb",
+    "example": "Voy a editar mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 368,
+    "spanish": "educar",
+    "english": "to educate",
+    "partOfSpeech": "verb",
+    "example": "No puedo educar ahora.",
+    "category": "school"
+  },
+  {
+    "id": 369,
+    "spanish": "ejercer",
+    "english": "to practice (a profession)",
+    "partOfSpeech": "verb",
+    "example": "Ella ejerce cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 370,
+    "spanish": "embarcar",
+    "english": "to board",
+    "partOfSpeech": "verb",
+    "example": "Yo embarco todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 371,
+    "spanish": "emigrar",
+    "english": "to emigrate",
+    "partOfSpeech": "verb",
+    "example": "Quiero emigrar.",
+    "category": "travel"
+  },
+  {
+    "id": 372,
+    "spanish": "emocionar",
+    "english": "to excite",
+    "partOfSpeech": "verb",
+    "example": "Voy a emocionar mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 373,
+    "spanish": "empatar",
+    "english": "to tie (a game)",
+    "partOfSpeech": "verb",
+    "example": "No puedo empatar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 374,
+    "spanish": "emplear",
+    "english": "to employ / to use",
+    "partOfSpeech": "verb",
+    "example": "Ella emplea cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 375,
+    "spanish": "encajar",
+    "english": "to fit",
+    "partOfSpeech": "verb",
+    "example": "Yo encajo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 376,
+    "spanish": "encargar",
+    "english": "to order / to put in charge",
+    "partOfSpeech": "verb",
+    "example": "Quiero encargar.",
+    "category": "work"
+  },
+  {
+    "id": 377,
+    "spanish": "encerrar",
+    "english": "to lock up",
+    "partOfSpeech": "verb",
+    "example": "Voy a encerrar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 378,
+    "spanish": "enfadar",
+    "english": "to anger",
+    "partOfSpeech": "verb",
+    "example": "No puedo enfadar ahora.",
+    "category": "emotions"
+  },
+  {
+    "id": 379,
+    "spanish": "enfermar",
+    "english": "to get sick",
+    "partOfSpeech": "verb",
+    "example": "Ella enferma cada semana.",
+    "category": "health"
+  },
+  {
+    "id": 380,
+    "spanish": "enfrentar",
+    "english": "to face",
+    "partOfSpeech": "verb",
+    "example": "Yo enfrento todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 381,
+    "spanish": "engañar",
+    "english": "to deceive",
+    "partOfSpeech": "verb",
+    "example": "Quiero engañar.",
+    "category": "general"
+  },
+  {
+    "id": 382,
+    "spanish": "enojar",
+    "english": "to anger",
+    "partOfSpeech": "verb",
+    "example": "Voy a enojar mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 383,
+    "spanish": "ensuciar",
+    "english": "to make dirty",
+    "partOfSpeech": "verb",
+    "example": "No puedo ensuciar ahora.",
+    "category": "house"
+  },
+  {
+    "id": 384,
+    "spanish": "enterar",
+    "english": "to find out",
+    "partOfSpeech": "verb",
+    "example": "Ella entera cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 385,
+    "spanish": "entrenar",
+    "english": "to train",
+    "partOfSpeech": "verb",
+    "example": "Yo entreno todos los días.",
+    "category": "sports"
+  },
+  {
+    "id": 386,
+    "spanish": "entrevistar",
+    "english": "to interview",
+    "partOfSpeech": "verb",
+    "example": "Quiero entrevistar.",
+    "category": "work"
+  },
+  {
+    "id": 387,
+    "spanish": "equivocar",
+    "english": "to make a mistake",
+    "partOfSpeech": "verb",
+    "example": "Voy a equivocar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 388,
+    "spanish": "escalar",
+    "english": "to climb",
+    "partOfSpeech": "verb",
+    "example": "No puedo escalar ahora.",
+    "category": "sports"
+  },
+  {
+    "id": 389,
+    "spanish": "estrenar",
+    "english": "to premiere / to use for the first time",
+    "partOfSpeech": "verb",
+    "example": "Ella estrena cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 390,
+    "spanish": "evaluar",
+    "english": "to evaluate",
+    "partOfSpeech": "verb",
+    "example": "Yo evaluo todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 391,
+    "spanish": "exigir",
+    "english": "to demand",
+    "partOfSpeech": "verb",
+    "example": "Quiero exigir.",
+    "category": "general"
+  },
+  {
+    "id": 392,
+    "spanish": "experimentar",
+    "english": "to experience",
+    "partOfSpeech": "verb",
+    "example": "Voy a experimentar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 393,
+    "spanish": "exportar",
+    "english": "to export",
+    "partOfSpeech": "verb",
+    "example": "No puedo exportar ahora.",
+    "category": "work"
+  },
+  {
+    "id": 394,
+    "spanish": "extrañar",
+    "english": "to miss (someone)",
+    "partOfSpeech": "verb",
+    "example": "Ella extraña cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 395,
+    "spanish": "fabricar",
+    "english": "to manufacture",
+    "partOfSpeech": "verb",
+    "example": "Yo fabrico todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 396,
+    "spanish": "facilitar",
+    "english": "to facilitate",
+    "partOfSpeech": "verb",
+    "example": "Quiero facilitar.",
+    "category": "general"
+  },
+  {
+    "id": 397,
+    "spanish": "festejar",
+    "english": "to celebrate",
+    "partOfSpeech": "verb",
+    "example": "Voy a festejar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 398,
+    "spanish": "fijar",
+    "english": "to fix / to set",
+    "partOfSpeech": "verb",
+    "example": "No puedo fijar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 399,
+    "spanish": "financiar",
+    "english": "to finance",
+    "partOfSpeech": "verb",
+    "example": "Ella financia cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 400,
+    "spanish": "firmar",
+    "english": "to sign",
+    "partOfSpeech": "verb",
+    "example": "Yo firmo todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 401,
+    "spanish": "fracasar",
+    "english": "to fail",
+    "partOfSpeech": "verb",
+    "example": "Quiero fracasar.",
+    "category": "general"
+  },
+  {
+    "id": 402,
+    "spanish": "frenar",
+    "english": "to brake",
+    "partOfSpeech": "verb",
+    "example": "Voy a frenar mañana.",
+    "category": "transportation"
+  },
+  {
+    "id": 403,
+    "spanish": "gozar",
+    "english": "to enjoy",
+    "partOfSpeech": "verb",
+    "example": "No puedo gozar ahora.",
+    "category": "emotions"
+  },
+  {
+    "id": 404,
+    "spanish": "grabar",
+    "english": "to record",
+    "partOfSpeech": "verb",
+    "example": "Ella graba cada semana.",
+    "category": "technology"
+  },
+  {
+    "id": 405,
+    "spanish": "guiar",
+    "english": "to guide",
+    "partOfSpeech": "verb",
+    "example": "Yo guio todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 406,
+    "spanish": "hallar",
+    "english": "to find",
+    "partOfSpeech": "verb",
+    "example": "Quiero hallar.",
+    "category": "general"
+  },
+  {
+    "id": 407,
+    "spanish": "herir",
+    "english": "to injure",
+    "partOfSpeech": "verb",
+    "example": "Voy a herir mañana.",
+    "category": "health"
+  },
+  {
+    "id": 408,
+    "spanish": "hervir",
+    "english": "to boil",
+    "partOfSpeech": "verb",
+    "example": "No puedo hervir ahora.",
+    "category": "food"
+  },
+  {
+    "id": 409,
+    "spanish": "identificar",
+    "english": "to identify",
+    "partOfSpeech": "verb",
+    "example": "Ella identifica cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 410,
+    "spanish": "igualar",
+    "english": "to equalize",
+    "partOfSpeech": "verb",
+    "example": "Yo igualo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 411,
+    "spanish": "impresionar",
+    "english": "to impress",
+    "partOfSpeech": "verb",
+    "example": "Quiero impresionar.",
+    "category": "emotions"
+  },
+  {
+    "id": 412,
+    "spanish": "imprimir",
+    "english": "to print",
+    "partOfSpeech": "verb",
+    "example": "Voy a imprimir mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 413,
+    "spanish": "inaugurar",
+    "english": "to inaugurate",
+    "partOfSpeech": "verb",
+    "example": "No puedo inaugurar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 414,
+    "spanish": "inspirar",
+    "english": "to inspire",
+    "partOfSpeech": "verb",
+    "example": "Ella inspira cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 415,
+    "spanish": "instalar",
+    "english": "to install",
+    "partOfSpeech": "verb",
+    "example": "Yo instalo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 416,
+    "spanish": "integrar",
+    "english": "to integrate",
+    "partOfSpeech": "verb",
+    "example": "Quiero integrar.",
+    "category": "general"
+  },
+  {
+    "id": 417,
+    "spanish": "interrumpir",
+    "english": "to interrupt",
+    "partOfSpeech": "verb",
+    "example": "Voy a interrumpir mañana.",
+    "category": "communication"
+  },
+  {
+    "id": 418,
+    "spanish": "investigar",
+    "english": "to investigate",
+    "partOfSpeech": "verb",
+    "example": "No puedo investigar ahora.",
+    "category": "school"
+  },
+  {
+    "id": 419,
+    "spanish": "invertir",
+    "english": "to invest",
+    "partOfSpeech": "verb",
+    "example": "Ella inverte cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 420,
+    "spanish": "involucrar",
+    "english": "to involve",
+    "partOfSpeech": "verb",
+    "example": "Yo involucro todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 421,
+    "spanish": "justificar",
+    "english": "to justify",
+    "partOfSpeech": "verb",
+    "example": "Quiero justificar.",
+    "category": "general"
+  },
+  {
+    "id": 422,
+    "spanish": "limitar",
+    "english": "to limit",
+    "partOfSpeech": "verb",
+    "example": "Voy a limitar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 423,
+    "spanish": "localizar",
+    "english": "to locate",
+    "partOfSpeech": "verb",
+    "example": "No puedo localizar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 424,
+    "spanish": "madurar",
+    "english": "to mature",
+    "partOfSpeech": "verb",
+    "example": "Ella madura cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 425,
+    "spanish": "maltratar",
+    "english": "to mistreat",
+    "partOfSpeech": "verb",
+    "example": "Yo maltrato todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 426,
+    "spanish": "manifestar",
+    "english": "to demonstrate / to express",
+    "partOfSpeech": "verb",
+    "example": "Quiero manifestar.",
+    "category": "communication"
+  },
+  {
+    "id": 427,
+    "spanish": "marchar",
+    "english": "to march / to leave",
+    "partOfSpeech": "verb",
+    "example": "Voy a marchar mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 428,
+    "spanish": "masticar",
+    "english": "to chew",
+    "partOfSpeech": "verb",
+    "example": "No puedo masticar ahora.",
+    "category": "food"
+  },
+  {
+    "id": 429,
+    "spanish": "memorizar",
+    "english": "to memorize",
+    "partOfSpeech": "verb",
+    "example": "Ella memoriza cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 430,
+    "spanish": "merecer",
+    "english": "to deserve",
+    "partOfSpeech": "verb",
+    "example": "Yo merezco todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 431,
+    "spanish": "mezclar",
+    "english": "to mix",
+    "partOfSpeech": "verb",
+    "example": "Quiero mezclar.",
+    "category": "food"
+  },
+  {
+    "id": 432,
+    "spanish": "modificar",
+    "english": "to modify",
+    "partOfSpeech": "verb",
+    "example": "Voy a modificar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 433,
+    "spanish": "molestarse",
+    "english": "to get annoyed",
+    "partOfSpeech": "verb",
+    "example": "Ella se molesta cada semana.",
+    "category": "emotions"
+  },
+  {
+    "id": 434,
+    "spanish": "multiplicar",
+    "english": "to multiply",
+    "partOfSpeech": "verb",
+    "example": "Ella multiplica cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 435,
+    "spanish": "navegar",
+    "english": "to sail / to browse",
+    "partOfSpeech": "verb",
+    "example": "Yo navego todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 436,
+    "spanish": "negociar",
+    "english": "to negotiate",
+    "partOfSpeech": "verb",
+    "example": "Quiero negociar.",
+    "category": "work"
+  },
+  {
+    "id": 437,
+    "spanish": "notar",
+    "english": "to notice",
+    "partOfSpeech": "verb",
+    "example": "Voy a notar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 438,
+    "spanish": "notificar",
+    "english": "to notify",
+    "partOfSpeech": "verb",
+    "example": "No puedo notificar ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 439,
+    "spanish": "nutrir",
+    "english": "to nourish",
+    "partOfSpeech": "verb",
+    "example": "Ella nutre cada semana.",
+    "category": "health"
+  },
+  {
+    "id": 440,
+    "spanish": "orar",
+    "english": "to pray",
+    "partOfSpeech": "verb",
+    "example": "Yo oro todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 441,
+    "spanish": "ordenar",
+    "english": "to order / to tidy up",
+    "partOfSpeech": "verb",
+    "example": "Quiero ordenar.",
+    "category": "house"
+  },
+  {
+    "id": 442,
+    "spanish": "pactar",
+    "english": "to agree on",
+    "partOfSpeech": "verb",
+    "example": "Voy a pactar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 443,
+    "spanish": "padecer",
+    "english": "to suffer from",
+    "partOfSpeech": "verb",
+    "example": "No puedo padecer ahora.",
+    "category": "health"
+  },
+  {
+    "id": 444,
+    "spanish": "palpar",
+    "english": "to touch / to feel",
+    "partOfSpeech": "verb",
+    "example": "Ella palpa cada semana.",
+    "category": "body"
+  },
+  {
+    "id": 445,
+    "spanish": "parpadear",
+    "english": "to blink",
+    "partOfSpeech": "verb",
+    "example": "Yo parpadeo todos los días.",
+    "category": "body"
+  },
+  {
+    "id": 446,
+    "spanish": "patinar",
+    "english": "to skate",
+    "partOfSpeech": "verb",
+    "example": "Quiero patinar.",
+    "category": "sports"
+  },
+  {
+    "id": 447,
+    "spanish": "pescar",
+    "english": "to fish",
+    "partOfSpeech": "verb",
+    "example": "Voy a pescar mañana.",
+    "category": "sports"
+  },
+  {
+    "id": 448,
+    "spanish": "planchar",
+    "english": "to iron",
+    "partOfSpeech": "verb",
+    "example": "No puedo planchar ahora.",
+    "category": "house"
+  },
+  {
+    "id": 449,
+    "spanish": "plantar",
+    "english": "to plant",
+    "partOfSpeech": "verb",
+    "example": "Ella planta cada semana.",
+    "category": "nature"
+  },
+  {
+    "id": 450,
+    "spanish": "poblar",
+    "english": "to populate",
+    "partOfSpeech": "verb",
+    "example": "Yo poblo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 451,
+    "spanish": "presenciar",
+    "english": "to witness",
+    "partOfSpeech": "verb",
+    "example": "Quiero presenciar.",
+    "category": "general"
+  },
+  {
+    "id": 452,
+    "spanish": "presumir",
+    "english": "to boast",
+    "partOfSpeech": "verb",
+    "example": "Voy a presumir mañana.",
+    "category": "general"
+  },
+  {
+    "id": 453,
+    "spanish": "procesar",
+    "english": "to process",
+    "partOfSpeech": "verb",
+    "example": "No puedo procesar ahora.",
+    "category": "technology"
+  },
+  {
+    "id": 454,
+    "spanish": "proclamar",
+    "english": "to proclaim",
+    "partOfSpeech": "verb",
+    "example": "Ella proclama cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 455,
+    "spanish": "programar",
+    "english": "to program",
+    "partOfSpeech": "verb",
+    "example": "Yo programo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 456,
+    "spanish": "prohibir",
+    "english": "to prohibit",
+    "partOfSpeech": "verb",
+    "example": "Quiero prohibir.",
+    "category": "general"
+  },
+  {
+    "id": 457,
+    "spanish": "prolongar",
+    "english": "to prolong",
+    "partOfSpeech": "verb",
+    "example": "Voy a prolongar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 458,
+    "spanish": "promover",
+    "english": "to promote",
+    "partOfSpeech": "verb",
+    "example": "No puedo promover ahora.",
+    "category": "work"
+  },
+  {
+    "id": 459,
+    "spanish": "pronunciar",
+    "english": "to pronounce",
+    "partOfSpeech": "verb",
+    "example": "Ella pronuncia cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 460,
+    "spanish": "proponer",
+    "english": "to propose",
+    "partOfSpeech": "verb",
+    "example": "Yo propono todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 461,
+    "spanish": "provocar",
+    "english": "to provoke",
+    "partOfSpeech": "verb",
+    "example": "Quiero provocar.",
+    "category": "general"
+  },
+  {
+    "id": 462,
+    "spanish": "rascar",
+    "english": "to scratch",
+    "partOfSpeech": "verb",
+    "example": "Voy a rascar mañana.",
+    "category": "body"
+  },
+  {
+    "id": 463,
+    "spanish": "realizar",
+    "english": "to carry out",
+    "partOfSpeech": "verb",
+    "example": "No puedo realizar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 464,
+    "spanish": "rebajar",
+    "english": "to lower (price)",
+    "partOfSpeech": "verb",
+    "example": "Ella rebaja cada semana.",
+    "category": "city"
+  },
+  {
+    "id": 465,
+    "spanish": "recargar",
+    "english": "to recharge",
+    "partOfSpeech": "verb",
+    "example": "Yo recargo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 466,
+    "spanish": "rechazar",
+    "english": "to reject",
+    "partOfSpeech": "verb",
+    "example": "Quiero rechazar.",
+    "category": "general"
+  },
+  {
+    "id": 467,
+    "spanish": "recoger",
+    "english": "to pick up",
+    "partOfSpeech": "verb",
+    "example": "Voy a recoger mañana.",
+    "category": "house"
+  },
+  {
+    "id": 468,
+    "spanish": "recomendar",
+    "english": "to recommend",
+    "partOfSpeech": "verb",
+    "example": "No puedo recomendar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 469,
+    "spanish": "reconstruir",
+    "english": "to rebuild",
+    "partOfSpeech": "verb",
+    "example": "Ella reconstrue cada semana.",
+    "category": "house"
+  },
+  {
+    "id": 470,
+    "spanish": "recorrer",
+    "english": "to travel through",
+    "partOfSpeech": "verb",
+    "example": "Yo recorro todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 471,
+    "spanish": "recuperar",
+    "english": "to recover",
+    "partOfSpeech": "verb",
+    "example": "Quiero recuperar.",
+    "category": "health"
+  },
+  {
+    "id": 472,
+    "spanish": "reflejar",
+    "english": "to reflect",
+    "partOfSpeech": "verb",
+    "example": "Voy a reflejar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 473,
+    "spanish": "reformar",
+    "english": "to reform / to renovate",
+    "partOfSpeech": "verb",
+    "example": "No puedo reformar ahora.",
+    "category": "house"
+  },
+  {
+    "id": 474,
+    "spanish": "regar",
+    "english": "to water (plants)",
+    "partOfSpeech": "verb",
+    "example": "Ella rega cada semana.",
+    "category": "nature"
+  },
+  {
+    "id": 475,
+    "spanish": "registrar",
+    "english": "to register",
+    "partOfSpeech": "verb",
+    "example": "Yo registro todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 476,
+    "spanish": "regular",
+    "english": "to regulate",
+    "partOfSpeech": "verb",
+    "example": "Quiero regular.",
+    "category": "general"
+  },
+  {
+    "id": 477,
+    "spanish": "rellenar",
+    "english": "to fill in",
+    "partOfSpeech": "verb",
+    "example": "Voy a rellenar mañana.",
+    "category": "school"
+  },
+  {
+    "id": 478,
+    "spanish": "remover",
+    "english": "to remove / to stir",
+    "partOfSpeech": "verb",
+    "example": "No puedo remover ahora.",
+    "category": "general"
+  },
+  {
+    "id": 479,
+    "spanish": "renovar",
+    "english": "to renew",
+    "partOfSpeech": "verb",
+    "example": "Ella renova cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 480,
+    "spanish": "rentar",
+    "english": "to rent",
+    "partOfSpeech": "verb",
+    "example": "Yo rento todos los días.",
+    "category": "city"
+  },
+  {
+    "id": 481,
+    "spanish": "reparar",
+    "english": "to repair",
+    "partOfSpeech": "verb",
+    "example": "Quiero reparar.",
+    "category": "house"
+  },
+  {
+    "id": 482,
+    "spanish": "repasar",
+    "english": "to review",
+    "partOfSpeech": "verb",
+    "example": "Voy a repasar mañana.",
+    "category": "school"
+  },
+  {
+    "id": 483,
+    "spanish": "reservar",
+    "english": "to reserve",
+    "partOfSpeech": "verb",
+    "example": "No puedo reservar ahora.",
+    "category": "travel"
+  },
+  {
+    "id": 484,
+    "spanish": "resistir",
+    "english": "to resist",
+    "partOfSpeech": "verb",
+    "example": "Ella resiste cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 485,
+    "spanish": "restaurar",
+    "english": "to restore",
+    "partOfSpeech": "verb",
+    "example": "Yo restauro todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 486,
+    "spanish": "resumir",
+    "english": "to summarize",
+    "partOfSpeech": "verb",
+    "example": "Quiero resumir.",
+    "category": "school"
+  },
+  {
+    "id": 487,
+    "spanish": "retirar",
+    "english": "to withdraw",
+    "partOfSpeech": "verb",
+    "example": "Voy a retirar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 488,
+    "spanish": "revisar",
+    "english": "to review / to check",
+    "partOfSpeech": "verb",
+    "example": "No puedo revisar ahora.",
+    "category": "work"
+  },
+  {
+    "id": 489,
+    "spanish": "revolver",
+    "english": "to stir / to mix",
+    "partOfSpeech": "verb",
+    "example": "Ella revolve cada semana.",
+    "category": "food"
+  },
+  {
+    "id": 490,
+    "spanish": "rodear",
+    "english": "to surround",
+    "partOfSpeech": "verb",
+    "example": "Yo rodeo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 491,
+    "spanish": "rozar",
+    "english": "to graze / to touch lightly",
+    "partOfSpeech": "verb",
+    "example": "Quiero rozar.",
+    "category": "body"
+  },
+  {
+    "id": 492,
+    "spanish": "saborear",
+    "english": "to savor",
+    "partOfSpeech": "verb",
+    "example": "Voy a saborear mañana.",
+    "category": "food"
+  },
+  {
+    "id": 493,
+    "spanish": "satisfacer",
+    "english": "to satisfy",
+    "partOfSpeech": "verb",
+    "example": "No puedo satisfacer ahora.",
+    "category": "general"
+  },
+  {
+    "id": 494,
+    "spanish": "secuestrar",
+    "english": "to kidnap",
+    "partOfSpeech": "verb",
+    "example": "Ella secuestra cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 495,
+    "spanish": "seleccionar",
+    "english": "to select",
+    "partOfSpeech": "verb",
+    "example": "Yo selecciono todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 496,
+    "spanish": "separar",
+    "english": "to separate",
+    "partOfSpeech": "verb",
+    "example": "Quiero separar.",
+    "category": "general"
+  },
+  {
+    "id": 497,
+    "spanish": "simplificar",
+    "english": "to simplify",
+    "partOfSpeech": "verb",
+    "example": "Voy a simplificar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 498,
+    "spanish": "situar",
+    "english": "to place / to locate",
+    "partOfSpeech": "verb",
+    "example": "No puedo situar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 499,
+    "spanish": "solicitar",
+    "english": "to request",
+    "partOfSpeech": "verb",
+    "example": "Ella solicita cada semana.",
+    "category": "work"
+  },
+  {
+    "id": 500,
+    "spanish": "solucionar",
+    "english": "to solve",
+    "partOfSpeech": "verb",
+    "example": "Yo soluciono todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 501,
+    "spanish": "sospechar",
+    "english": "to suspect",
+    "partOfSpeech": "verb",
+    "example": "Quiero sospechar.",
+    "category": "general"
+  },
+  {
+    "id": 502,
+    "spanish": "sostener",
+    "english": "to hold / to support",
+    "partOfSpeech": "verb",
+    "example": "Voy a sostener mañana.",
+    "category": "general"
+  },
+  {
+    "id": 503,
+    "spanish": "suavizar",
+    "english": "to soften",
+    "partOfSpeech": "verb",
+    "example": "No puedo suavizar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 504,
+    "spanish": "subrayar",
+    "english": "to underline",
+    "partOfSpeech": "verb",
+    "example": "Ella subraya cada semana.",
+    "category": "school"
+  },
+  {
+    "id": 505,
+    "spanish": "substituir",
+    "english": "to substitute",
+    "partOfSpeech": "verb",
+    "example": "Yo substituo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 506,
+    "spanish": "sumergir",
+    "english": "to submerge",
+    "partOfSpeech": "verb",
+    "example": "Quiero sumergir.",
+    "category": "nature"
+  },
+  {
+    "id": 507,
+    "spanish": "superar",
+    "english": "to overcome",
+    "partOfSpeech": "verb",
+    "example": "Voy a superar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 508,
+    "spanish": "suspender",
+    "english": "to fail (an exam) / to suspend",
+    "partOfSpeech": "verb",
+    "example": "No puedo suspender ahora.",
+    "category": "school"
+  },
+  {
+    "id": 509,
+    "spanish": "sustituir",
+    "english": "to substitute",
+    "partOfSpeech": "verb",
+    "example": "Ella sustitue cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 510,
+    "spanish": "tapar",
+    "english": "to cover",
+    "partOfSpeech": "verb",
+    "example": "Yo tapo todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 511,
+    "spanish": "tejer",
+    "english": "to knit / to weave",
+    "partOfSpeech": "verb",
+    "example": "Quiero tejer.",
+    "category": "clothing"
+  },
+  {
+    "id": 512,
+    "spanish": "teñir",
+    "english": "to dye",
+    "partOfSpeech": "verb",
+    "example": "Voy a teñir mañana.",
+    "category": "clothing"
+  },
+  {
+    "id": 513,
+    "spanish": "titular",
+    "english": "to title / to headline",
+    "partOfSpeech": "verb",
+    "example": "No puedo titular ahora.",
+    "category": "communication"
+  },
+  {
+    "id": 514,
+    "spanish": "tolerar",
+    "english": "to tolerate",
+    "partOfSpeech": "verb",
+    "example": "Ella tolera cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 515,
+    "spanish": "torcer",
+    "english": "to twist",
+    "partOfSpeech": "verb",
+    "example": "Yo torco todos los días.",
+    "category": "body"
+  },
+  {
+    "id": 516,
+    "spanish": "trasladar",
+    "english": "to move / to relocate",
+    "partOfSpeech": "verb",
+    "example": "Quiero trasladar.",
+    "category": "work"
+  },
+  {
+    "id": 517,
+    "spanish": "triunfar",
+    "english": "to succeed",
+    "partOfSpeech": "verb",
+    "example": "Voy a triunfar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 518,
+    "spanish": "tropezar",
+    "english": "to trip",
+    "partOfSpeech": "verb",
+    "example": "No puedo tropezar ahora.",
+    "category": "body"
+  },
+  {
+    "id": 519,
+    "spanish": "unificar",
+    "english": "to unify",
+    "partOfSpeech": "verb",
+    "example": "Ella unifica cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 520,
+    "spanish": "vaciar",
+    "english": "to empty",
+    "partOfSpeech": "verb",
+    "example": "Yo vacio todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 521,
+    "spanish": "vagar",
+    "english": "to wander",
+    "partOfSpeech": "verb",
+    "example": "Quiero vagar.",
+    "category": "general"
+  },
+  {
+    "id": 522,
+    "spanish": "valorar",
+    "english": "to value",
+    "partOfSpeech": "verb",
+    "example": "Voy a valorar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 523,
+    "spanish": "variar",
+    "english": "to vary",
+    "partOfSpeech": "verb",
+    "example": "No puedo variar ahora.",
+    "category": "general"
+  },
+  {
+    "id": 524,
+    "spanish": "vencer",
+    "english": "to defeat / to expire",
+    "partOfSpeech": "verb",
+    "example": "Ella vence cada semana.",
+    "category": "sports"
+  },
+  {
+    "id": 525,
+    "spanish": "vengar",
+    "english": "to avenge",
+    "partOfSpeech": "verb",
+    "example": "Yo vengo todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 526,
+    "spanish": "verificar",
+    "english": "to verify",
+    "partOfSpeech": "verb",
+    "example": "Quiero verificar.",
+    "category": "general"
+  },
+  {
+    "id": 527,
+    "spanish": "vigilar",
+    "english": "to watch over",
+    "partOfSpeech": "verb",
+    "example": "Voy a vigilar mañana.",
+    "category": "general"
+  },
+  {
+    "id": 528,
+    "spanish": "vincular",
+    "english": "to link",
+    "partOfSpeech": "verb",
+    "example": "No puedo vincular ahora.",
+    "category": "general"
+  },
+  {
+    "id": 529,
+    "spanish": "violar",
+    "english": "to violate",
+    "partOfSpeech": "verb",
+    "example": "Ella viola cada semana.",
+    "category": "general"
+  },
+  {
+    "id": 530,
+    "spanish": "casa",
+    "english": "house",
+    "partOfSpeech": "noun",
+    "example": "Veo la casa todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 531,
+    "spanish": "naturaleza",
+    "english": "nature",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la naturaleza.",
+    "category": "nature"
+  },
+  {
+    "id": 532,
+    "spanish": "animal",
+    "english": "animal",
+    "partOfSpeech": "noun",
+    "example": "Necesito el animal para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 533,
+    "spanish": "ciudad",
+    "english": "city",
+    "partOfSpeech": "noun",
+    "example": "La ciudad es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 534,
+    "spanish": "viaje",
+    "english": "trip",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el viaje.",
+    "category": "travel"
+  },
+  {
+    "id": 535,
+    "spanish": "coche",
+    "english": "car",
+    "partOfSpeech": "noun",
+    "example": "Veo el coche todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 536,
+    "spanish": "comida",
+    "english": "food",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la comida.",
+    "category": "food"
+  },
+  {
+    "id": 537,
+    "spanish": "familia",
+    "english": "family",
+    "partOfSpeech": "noun",
+    "example": "Necesito la familia para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 538,
+    "spanish": "cuerpo",
+    "english": "body",
+    "partOfSpeech": "noun",
+    "example": "El cuerpo es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 539,
+    "spanish": "salud",
+    "english": "health",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el salud.",
+    "category": "health"
+  },
+  {
+    "id": 540,
+    "spanish": "ropa",
+    "english": "clothes",
+    "partOfSpeech": "noun",
+    "example": "Veo la ropa todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 541,
+    "spanish": "trabajo",
+    "english": "work / job",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el trabajo.",
+    "category": "work"
+  },
+  {
+    "id": 542,
+    "spanish": "escuela",
+    "english": "school",
+    "partOfSpeech": "noun",
+    "example": "Necesito la escuela para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 543,
+    "spanish": "tiempo",
+    "english": "time / weather",
+    "partOfSpeech": "noun",
+    "example": "El tiempo es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 544,
+    "spanish": "clima",
+    "english": "climate",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el clima.",
+    "category": "weather"
+  },
+  {
+    "id": 545,
+    "spanish": "computadora",
+    "english": "computer",
+    "partOfSpeech": "noun",
+    "example": "Veo la computadora todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 546,
+    "spanish": "deporte",
+    "english": "sport",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el deporte.",
+    "category": "sports"
+  },
+  {
+    "id": 547,
+    "spanish": "amor",
+    "english": "love",
+    "partOfSpeech": "noun",
+    "example": "Necesito el amor para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 548,
+    "spanish": "color",
+    "english": "color",
+    "partOfSpeech": "noun",
+    "example": "El color es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 549,
+    "spanish": "persona",
+    "english": "person",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la persona.",
+    "category": "general"
+  },
+  {
+    "id": 550,
+    "spanish": "habitación",
+    "english": "room",
+    "partOfSpeech": "noun",
+    "example": "Veo la habitación todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 551,
+    "spanish": "árbol",
+    "english": "tree",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el árbol.",
+    "category": "nature"
+  },
+  {
+    "id": 552,
+    "spanish": "perro",
+    "english": "dog",
+    "partOfSpeech": "noun",
+    "example": "Necesito el perro para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 553,
+    "spanish": "calle",
+    "english": "street",
+    "partOfSpeech": "noun",
+    "example": "El calle es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 554,
+    "spanish": "vacaciones",
+    "english": "vacation",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el vacaciones.",
+    "category": "travel"
+  },
+  {
+    "id": 555,
+    "spanish": "carro",
+    "english": "car",
+    "partOfSpeech": "noun",
+    "example": "Veo el carro todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 556,
+    "spanish": "desayuno",
+    "english": "breakfast",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el desayuno.",
+    "category": "food"
+  },
+  {
+    "id": 557,
+    "spanish": "madre",
+    "english": "mother",
+    "partOfSpeech": "noun",
+    "example": "Necesito el madre para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 558,
+    "spanish": "cabeza",
+    "english": "head",
+    "partOfSpeech": "noun",
+    "example": "La cabeza es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 559,
+    "spanish": "enfermedad",
+    "english": "illness",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la enfermedad.",
+    "category": "health"
+  },
+  {
+    "id": 560,
+    "spanish": "camisa",
+    "english": "shirt",
+    "partOfSpeech": "noun",
+    "example": "Veo la camisa todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 561,
+    "spanish": "jefe",
+    "english": "boss",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el jefe.",
+    "category": "work"
+  },
+  {
+    "id": 562,
+    "spanish": "maestro",
+    "english": "teacher (m)",
+    "partOfSpeech": "noun",
+    "example": "Necesito el maestro para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 563,
+    "spanish": "hora",
+    "english": "hour",
+    "partOfSpeech": "noun",
+    "example": "La hora es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 564,
+    "spanish": "nieve",
+    "english": "snow",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el nieve.",
+    "category": "weather"
+  },
+  {
+    "id": 565,
+    "spanish": "ordenador",
+    "english": "computer",
+    "partOfSpeech": "noun",
+    "example": "Veo el ordenador todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 566,
+    "spanish": "fútbol",
+    "english": "soccer",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el fútbol.",
+    "category": "sports"
+  },
+  {
+    "id": 567,
+    "spanish": "alegría",
+    "english": "joy",
+    "partOfSpeech": "noun",
+    "example": "Necesito la alegría para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 568,
+    "spanish": "rojo",
+    "english": "red",
+    "partOfSpeech": "noun",
+    "example": "El rojo es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 569,
+    "spanish": "gente",
+    "english": "people",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el gente.",
+    "category": "general"
+  },
+  {
+    "id": 570,
+    "spanish": "cocina",
+    "english": "kitchen",
+    "partOfSpeech": "noun",
+    "example": "Veo la cocina todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 571,
+    "spanish": "flor",
+    "english": "flower",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el flor.",
+    "category": "nature"
+  },
+  {
+    "id": 572,
+    "spanish": "gato",
+    "english": "cat",
+    "partOfSpeech": "noun",
+    "example": "Necesito el gato para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 573,
+    "spanish": "avenida",
+    "english": "avenue",
+    "partOfSpeech": "noun",
+    "example": "La avenida es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 574,
+    "spanish": "maleta",
+    "english": "suitcase",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la maleta.",
+    "category": "travel"
+  },
+  {
+    "id": 575,
+    "spanish": "autobús",
+    "english": "bus",
+    "partOfSpeech": "noun",
+    "example": "Veo el autobús todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 576,
+    "spanish": "almuerzo",
+    "english": "lunch",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el almuerzo.",
+    "category": "food"
+  },
+  {
+    "id": 577,
+    "spanish": "padre",
+    "english": "father",
+    "partOfSpeech": "noun",
+    "example": "Necesito el padre para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 578,
+    "spanish": "cara",
+    "english": "face",
+    "partOfSpeech": "noun",
+    "example": "La cara es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 579,
+    "spanish": "dolor",
+    "english": "pain",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el dolor.",
+    "category": "health"
+  },
+  {
+    "id": 580,
+    "spanish": "pantalón",
+    "english": "pants",
+    "partOfSpeech": "noun",
+    "example": "Veo el pantalón todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 581,
+    "spanish": "empleado",
+    "english": "employee",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el empleado.",
+    "category": "work"
+  },
+  {
+    "id": 582,
+    "spanish": "profesor",
+    "english": "teacher / professor",
+    "partOfSpeech": "noun",
+    "example": "Necesito el profesor para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 583,
+    "spanish": "minuto",
+    "english": "minute",
+    "partOfSpeech": "noun",
+    "example": "El minuto es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 584,
+    "spanish": "tormenta",
+    "english": "storm",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la tormenta.",
+    "category": "weather"
+  },
+  {
+    "id": 585,
+    "spanish": "teléfono",
+    "english": "telephone",
+    "partOfSpeech": "noun",
+    "example": "Veo el teléfono todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 586,
+    "spanish": "baloncesto",
+    "english": "basketball",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el baloncesto.",
+    "category": "sports"
+  },
+  {
+    "id": 587,
+    "spanish": "tristeza",
+    "english": "sadness",
+    "partOfSpeech": "noun",
+    "example": "Necesito la tristeza para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 588,
+    "spanish": "azul",
+    "english": "blue",
+    "partOfSpeech": "noun",
+    "example": "El azul es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 589,
+    "spanish": "lugar",
+    "english": "place",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el lugar.",
+    "category": "general"
+  },
+  {
+    "id": 590,
+    "spanish": "baño",
+    "english": "bathroom",
+    "partOfSpeech": "noun",
+    "example": "Veo el baño todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 591,
+    "spanish": "planta",
+    "english": "plant",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la planta.",
+    "category": "nature"
+  },
+  {
+    "id": 592,
+    "spanish": "caballo",
+    "english": "horse",
+    "partOfSpeech": "noun",
+    "example": "Necesito el caballo para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 593,
+    "spanish": "plaza",
+    "english": "square",
+    "partOfSpeech": "noun",
+    "example": "La plaza es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 594,
+    "spanish": "pasaporte",
+    "english": "passport",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el pasaporte.",
+    "category": "travel"
+  },
+  {
+    "id": 595,
+    "spanish": "tren",
+    "english": "train",
+    "partOfSpeech": "noun",
+    "example": "Veo el tren todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 596,
+    "spanish": "cena",
+    "english": "dinner",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la cena.",
+    "category": "food"
+  },
+  {
+    "id": 597,
+    "spanish": "hijo",
+    "english": "son",
+    "partOfSpeech": "noun",
+    "example": "Necesito el hijo para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 598,
+    "spanish": "ojo",
+    "english": "eye",
+    "partOfSpeech": "noun",
+    "example": "El ojo es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 599,
+    "spanish": "fiebre",
+    "english": "fever",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el fiebre.",
+    "category": "health"
+  },
+  {
+    "id": 600,
+    "spanish": "vestido",
+    "english": "dress",
+    "partOfSpeech": "noun",
+    "example": "Veo el vestido todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 601,
+    "spanish": "empresa",
+    "english": "company",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la empresa.",
+    "category": "work"
+  },
+  {
+    "id": 602,
+    "spanish": "estudiante",
+    "english": "student",
+    "partOfSpeech": "noun",
+    "example": "Necesito el estudiante para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 603,
+    "spanish": "segundo",
+    "english": "second",
+    "partOfSpeech": "noun",
+    "example": "El segundo es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 604,
+    "spanish": "huracán",
+    "english": "hurricane",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el huracán.",
+    "category": "weather"
+  },
+  {
+    "id": 605,
+    "spanish": "internet",
+    "english": "internet",
+    "partOfSpeech": "noun",
+    "example": "Veo el internet todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 606,
+    "spanish": "tenis",
+    "english": "tennis",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el tenis.",
+    "category": "sports"
+  },
+  {
+    "id": 607,
+    "spanish": "miedo",
+    "english": "fear",
+    "partOfSpeech": "noun",
+    "example": "Necesito el miedo para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 608,
+    "spanish": "verde",
+    "english": "green",
+    "partOfSpeech": "noun",
+    "example": "El verde es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 609,
+    "spanish": "cosa",
+    "english": "thing",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la cosa.",
+    "category": "general"
+  },
+  {
+    "id": 610,
+    "spanish": "dormitorio",
+    "english": "bedroom",
+    "partOfSpeech": "noun",
+    "example": "Veo el dormitorio todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 611,
+    "spanish": "hoja",
+    "english": "leaf",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la hoja.",
+    "category": "nature"
+  },
+  {
+    "id": 612,
+    "spanish": "vaca",
+    "english": "cow",
+    "partOfSpeech": "noun",
+    "example": "Necesito la vaca para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 613,
+    "spanish": "edificio",
+    "english": "building",
+    "partOfSpeech": "noun",
+    "example": "El edificio es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 614,
+    "spanish": "billete",
+    "english": "ticket",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el billete.",
+    "category": "travel"
+  },
+  {
+    "id": 615,
+    "spanish": "avión",
+    "english": "airplane",
+    "partOfSpeech": "noun",
+    "example": "Veo el avión todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 616,
+    "spanish": "pan",
+    "english": "bread",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el pan.",
+    "category": "food"
+  },
+  {
+    "id": 617,
+    "spanish": "hija",
+    "english": "daughter",
+    "partOfSpeech": "noun",
+    "example": "Necesito la hija para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 618,
+    "spanish": "nariz",
+    "english": "nose",
+    "partOfSpeech": "noun",
+    "example": "El nariz es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 619,
+    "spanish": "medicina",
+    "english": "medicine",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la medicina.",
+    "category": "health"
+  },
+  {
+    "id": 620,
+    "spanish": "falda",
+    "english": "skirt",
+    "partOfSpeech": "noun",
+    "example": "Veo la falda todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 621,
+    "spanish": "reunión",
+    "english": "meeting",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el reunión.",
+    "category": "work"
+  },
+  {
+    "id": 622,
+    "spanish": "alumno",
+    "english": "pupil",
+    "partOfSpeech": "noun",
+    "example": "Necesito el alumno para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 623,
+    "spanish": "día",
+    "english": "day",
+    "partOfSpeech": "noun",
+    "example": "El día es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 624,
+    "spanish": "niebla",
+    "english": "fog",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la niebla.",
+    "category": "weather"
+  },
+  {
+    "id": 625,
+    "spanish": "correo",
+    "english": "mail / email",
+    "partOfSpeech": "noun",
+    "example": "Veo el correo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 626,
+    "spanish": "natación",
+    "english": "swimming",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la natación.",
+    "category": "sports"
+  },
+  {
+    "id": 627,
+    "spanish": "ira",
+    "english": "anger",
+    "partOfSpeech": "noun",
+    "example": "Necesito la ira para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 628,
+    "spanish": "amarillo",
+    "english": "yellow",
+    "partOfSpeech": "noun",
+    "example": "El amarillo es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 629,
+    "spanish": "idea",
+    "english": "idea",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la idea.",
+    "category": "general"
+  },
+  {
+    "id": 630,
+    "spanish": "sala",
+    "english": "living room",
+    "partOfSpeech": "noun",
+    "example": "Veo la sala todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 631,
+    "spanish": "bosque",
+    "english": "forest",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el bosque.",
+    "category": "nature"
+  },
+  {
+    "id": 632,
+    "spanish": "cerdo",
+    "english": "pig",
+    "partOfSpeech": "noun",
+    "example": "Necesito el cerdo para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 633,
+    "spanish": "tienda",
+    "english": "store",
+    "partOfSpeech": "noun",
+    "example": "La tienda es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 634,
+    "spanish": "boleto",
+    "english": "ticket",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el boleto.",
+    "category": "travel"
+  },
+  {
+    "id": 635,
+    "spanish": "barco",
+    "english": "boat",
+    "partOfSpeech": "noun",
+    "example": "Veo el barco todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 636,
+    "spanish": "leche",
+    "english": "milk",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el leche.",
+    "category": "food"
+  },
+  {
+    "id": 637,
+    "spanish": "hermano",
+    "english": "brother",
+    "partOfSpeech": "noun",
+    "example": "Necesito el hermano para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 638,
+    "spanish": "boca",
+    "english": "mouth",
+    "partOfSpeech": "noun",
+    "example": "La boca es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 639,
+    "spanish": "doctor",
+    "english": "doctor",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el doctor.",
+    "category": "health"
+  },
+  {
+    "id": 640,
+    "spanish": "zapato",
+    "english": "shoe",
+    "partOfSpeech": "noun",
+    "example": "Veo el zapato todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 641,
+    "spanish": "proyecto",
+    "english": "project",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el proyecto.",
+    "category": "work"
+  },
+  {
+    "id": 642,
+    "spanish": "clase",
+    "english": "class",
+    "partOfSpeech": "noun",
+    "example": "Necesito el clase para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 643,
+    "spanish": "semana",
+    "english": "week",
+    "partOfSpeech": "noun",
+    "example": "La semana es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 644,
+    "spanish": "humedad",
+    "english": "humidity",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la humedad.",
+    "category": "weather"
+  },
+  {
+    "id": 645,
+    "spanish": "aplicación",
+    "english": "application",
+    "partOfSpeech": "noun",
+    "example": "Veo la aplicación todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 646,
+    "spanish": "equipo",
+    "english": "team",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el equipo.",
+    "category": "sports"
+  },
+  {
+    "id": 647,
+    "spanish": "sorpresa",
+    "english": "surprise",
+    "partOfSpeech": "noun",
+    "example": "Necesito la sorpresa para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 648,
+    "spanish": "negro",
+    "english": "black",
+    "partOfSpeech": "noun",
+    "example": "El negro es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 649,
+    "spanish": "problema",
+    "english": "problem",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el problema.",
+    "category": "general"
+  },
+  {
+    "id": 650,
+    "spanish": "jardín",
+    "english": "garden",
+    "partOfSpeech": "noun",
+    "example": "Veo el jardín todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 651,
+    "spanish": "montaña",
+    "english": "mountain",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la montaña.",
+    "category": "nature"
+  },
+  {
+    "id": 652,
+    "spanish": "oveja",
+    "english": "sheep",
+    "partOfSpeech": "noun",
+    "example": "Necesito la oveja para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 653,
+    "spanish": "mercado",
+    "english": "market",
+    "partOfSpeech": "noun",
+    "example": "El mercado es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 654,
+    "spanish": "turista",
+    "english": "tourist",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la turista.",
+    "category": "travel"
+  },
+  {
+    "id": 655,
+    "spanish": "bicicleta",
+    "english": "bicycle",
+    "partOfSpeech": "noun",
+    "example": "Veo la bicicleta todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 656,
+    "spanish": "queso",
+    "english": "cheese",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el queso.",
+    "category": "food"
+  },
+  {
+    "id": 657,
+    "spanish": "hermana",
+    "english": "sister",
+    "partOfSpeech": "noun",
+    "example": "Necesito la hermana para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 658,
+    "spanish": "oreja",
+    "english": "ear",
+    "partOfSpeech": "noun",
+    "example": "La oreja es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 659,
+    "spanish": "médico",
+    "english": "doctor",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el médico.",
+    "category": "health"
+  },
+  {
+    "id": 660,
+    "spanish": "calcetín",
+    "english": "sock",
+    "partOfSpeech": "noun",
+    "example": "Veo el calcetín todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 661,
+    "spanish": "salario",
+    "english": "salary",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el salario.",
+    "category": "work"
+  },
+  {
+    "id": 662,
+    "spanish": "examen",
+    "english": "exam",
+    "partOfSpeech": "noun",
+    "example": "Necesito el examen para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 663,
+    "spanish": "mes",
+    "english": "month",
+    "partOfSpeech": "noun",
+    "example": "El mes es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 664,
+    "spanish": "temperatura",
+    "english": "temperature",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la temperatura.",
+    "category": "weather"
+  },
+  {
+    "id": 665,
+    "spanish": "programa",
+    "english": "program",
+    "partOfSpeech": "noun",
+    "example": "Veo el programa todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 666,
+    "spanish": "jugador",
+    "english": "player",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el jugador.",
+    "category": "sports"
+  },
+  {
+    "id": 667,
+    "spanish": "felicidad",
+    "english": "happiness",
+    "partOfSpeech": "noun",
+    "example": "Necesito la felicidad para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 668,
+    "spanish": "blanco",
+    "english": "white",
+    "partOfSpeech": "noun",
+    "example": "El blanco es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 669,
+    "spanish": "solución",
+    "english": "solution",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la solución.",
+    "category": "general"
+  },
+  {
+    "id": 670,
+    "spanish": "puerta",
+    "english": "door",
+    "partOfSpeech": "noun",
+    "example": "Veo la puerta todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 671,
+    "spanish": "río",
+    "english": "river",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el río.",
+    "category": "nature"
+  },
+  {
+    "id": 672,
+    "spanish": "gallina",
+    "english": "hen",
+    "partOfSpeech": "noun",
+    "example": "Necesito la gallina para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 673,
+    "spanish": "banco",
+    "english": "bank",
+    "partOfSpeech": "noun",
+    "example": "El banco es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 674,
+    "spanish": "mapa",
+    "english": "map",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el mapa.",
+    "category": "travel"
+  },
+  {
+    "id": 675,
+    "spanish": "motocicleta",
+    "english": "motorcycle",
+    "partOfSpeech": "noun",
+    "example": "Veo la motocicleta todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 676,
+    "spanish": "huevo",
+    "english": "egg",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el huevo.",
+    "category": "food"
+  },
+  {
+    "id": 677,
+    "spanish": "abuelo",
+    "english": "grandfather",
+    "partOfSpeech": "noun",
+    "example": "Necesito el abuelo para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 678,
+    "spanish": "diente",
+    "english": "tooth",
+    "partOfSpeech": "noun",
+    "example": "El diente es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 679,
+    "spanish": "enfermera",
+    "english": "nurse",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la enfermera.",
+    "category": "health"
+  },
+  {
+    "id": 680,
+    "spanish": "chaqueta",
+    "english": "jacket",
+    "partOfSpeech": "noun",
+    "example": "Veo la chaqueta todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 681,
+    "spanish": "sueldo",
+    "english": "salary",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el sueldo.",
+    "category": "work"
+  },
+  {
+    "id": 682,
+    "spanish": "tarea",
+    "english": "homework",
+    "partOfSpeech": "noun",
+    "example": "Necesito la tarea para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 683,
+    "spanish": "año",
+    "english": "year",
+    "partOfSpeech": "noun",
+    "example": "El año es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 684,
+    "spanish": "calor",
+    "english": "heat",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el calor.",
+    "category": "weather"
+  },
+  {
+    "id": 685,
+    "spanish": "pantalla",
+    "english": "screen",
+    "partOfSpeech": "noun",
+    "example": "Veo la pantalla todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 686,
+    "spanish": "partido",
+    "english": "match",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el partido.",
+    "category": "sports"
+  },
+  {
+    "id": 687,
+    "spanish": "esperanza",
+    "english": "hope",
+    "partOfSpeech": "noun",
+    "example": "Necesito la esperanza para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 688,
+    "spanish": "gris",
+    "english": "gray",
+    "partOfSpeech": "noun",
+    "example": "El gris es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 689,
+    "spanish": "pregunta",
+    "english": "question",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la pregunta.",
+    "category": "general"
+  },
+  {
+    "id": 690,
+    "spanish": "ventana",
+    "english": "window",
+    "partOfSpeech": "noun",
+    "example": "Veo la ventana todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 691,
+    "spanish": "lago",
+    "english": "lake",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el lago.",
+    "category": "nature"
+  },
+  {
+    "id": 692,
+    "spanish": "pájaro",
+    "english": "bird",
+    "partOfSpeech": "noun",
+    "example": "Necesito el pájaro para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 693,
+    "spanish": "hospital",
+    "english": "hospital",
+    "partOfSpeech": "noun",
+    "example": "El hospital es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 694,
+    "spanish": "itinerario",
+    "english": "itinerary",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el itinerario.",
+    "category": "travel"
+  },
+  {
+    "id": 695,
+    "spanish": "taxi",
+    "english": "taxi",
+    "partOfSpeech": "noun",
+    "example": "Veo el taxi todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 696,
+    "spanish": "carne",
+    "english": "meat",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el carne.",
+    "category": "food"
+  },
+  {
+    "id": 697,
+    "spanish": "abuela",
+    "english": "grandmother",
+    "partOfSpeech": "noun",
+    "example": "Necesito la abuela para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 698,
+    "spanish": "pelo",
+    "english": "hair",
+    "partOfSpeech": "noun",
+    "example": "El pelo es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 699,
+    "spanish": "receta",
+    "english": "prescription",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la receta.",
+    "category": "health"
+  },
+  {
+    "id": 700,
+    "spanish": "abrigo",
+    "english": "coat",
+    "partOfSpeech": "noun",
+    "example": "Veo el abrigo todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 701,
+    "spanish": "contrato",
+    "english": "contract",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el contrato.",
+    "category": "work"
+  },
+  {
+    "id": 702,
+    "spanish": "libro",
+    "english": "book",
+    "partOfSpeech": "noun",
+    "example": "Necesito el libro para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 703,
+    "spanish": "mañana",
+    "english": "morning / tomorrow",
+    "partOfSpeech": "noun",
+    "example": "La mañana es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 704,
+    "spanish": "frío",
+    "english": "cold",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el frío.",
+    "category": "weather"
+  },
+  {
+    "id": 705,
+    "spanish": "teclado",
+    "english": "keyboard",
+    "partOfSpeech": "noun",
+    "example": "Veo el teclado todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 706,
+    "spanish": "gol",
+    "english": "goal",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el gol.",
+    "category": "sports"
+  },
+  {
+    "id": 707,
+    "spanish": "orgullo",
+    "english": "pride",
+    "partOfSpeech": "noun",
+    "example": "Necesito el orgullo para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 708,
+    "spanish": "rosa",
+    "english": "pink",
+    "partOfSpeech": "noun",
+    "example": "La rosa es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 709,
+    "spanish": "respuesta",
+    "english": "answer",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la respuesta.",
+    "category": "general"
+  },
+  {
+    "id": 710,
+    "spanish": "techo",
+    "english": "roof / ceiling",
+    "partOfSpeech": "noun",
+    "example": "Veo el techo todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 711,
+    "spanish": "mar",
+    "english": "sea",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el mar.",
+    "category": "nature"
+  },
+  {
+    "id": 712,
+    "spanish": "pez",
+    "english": "fish",
+    "partOfSpeech": "noun",
+    "example": "Necesito el pez para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 713,
+    "spanish": "farmacia",
+    "english": "pharmacy",
+    "partOfSpeech": "noun",
+    "example": "La farmacia es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 714,
+    "spanish": "aventura",
+    "english": "adventure",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la aventura.",
+    "category": "travel"
+  },
+  {
+    "id": 715,
+    "spanish": "metro",
+    "english": "subway",
+    "partOfSpeech": "noun",
+    "example": "Veo el metro todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 716,
+    "spanish": "pollo",
+    "english": "chicken",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el pollo.",
+    "category": "food"
+  },
+  {
+    "id": 717,
+    "spanish": "tío",
+    "english": "uncle",
+    "partOfSpeech": "noun",
+    "example": "Necesito el tío para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 718,
+    "spanish": "cuello",
+    "english": "neck",
+    "partOfSpeech": "noun",
+    "example": "El cuello es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 719,
+    "spanish": "pastilla",
+    "english": "pill",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la pastilla.",
+    "category": "health"
+  },
+  {
+    "id": 720,
+    "spanish": "sombrero",
+    "english": "hat",
+    "partOfSpeech": "noun",
+    "example": "Veo el sombrero todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 721,
+    "spanish": "entrevista",
+    "english": "interview",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la entrevista.",
+    "category": "work"
+  },
+  {
+    "id": 722,
+    "spanish": "cuaderno",
+    "english": "notebook",
+    "partOfSpeech": "noun",
+    "example": "Necesito el cuaderno para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 723,
+    "spanish": "tarde",
+    "english": "afternoon",
+    "partOfSpeech": "noun",
+    "example": "El tarde es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 724,
+    "spanish": "viento",
+    "english": "wind",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el viento.",
+    "category": "weather"
+  },
+  {
+    "id": 725,
+    "spanish": "impresora",
+    "english": "printer",
+    "partOfSpeech": "noun",
+    "example": "Veo la impresora todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 726,
+    "spanish": "pelota",
+    "english": "ball",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la pelota.",
+    "category": "sports"
+  },
+  {
+    "id": 727,
+    "spanish": "vergüenza",
+    "english": "shame",
+    "partOfSpeech": "noun",
+    "example": "Necesito la vergüenza para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 728,
+    "spanish": "morado",
+    "english": "purple",
+    "partOfSpeech": "noun",
+    "example": "El morado es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 729,
+    "spanish": "noticia",
+    "english": "news",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la noticia.",
+    "category": "general"
+  },
+  {
+    "id": 730,
+    "spanish": "pared",
+    "english": "wall",
+    "partOfSpeech": "noun",
+    "example": "Veo el pared todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 731,
+    "spanish": "océano",
+    "english": "ocean",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el océano.",
+    "category": "nature"
+  },
+  {
+    "id": 732,
+    "spanish": "león",
+    "english": "lion",
+    "partOfSpeech": "noun",
+    "example": "Necesito el león para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 733,
+    "spanish": "restaurante",
+    "english": "restaurant",
+    "partOfSpeech": "noun",
+    "example": "El restaurante es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 734,
+    "spanish": "destino",
+    "english": "destination",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el destino.",
+    "category": "travel"
+  },
+  {
+    "id": 735,
+    "spanish": "camión",
+    "english": "truck",
+    "partOfSpeech": "noun",
+    "example": "Veo el camión todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 736,
+    "spanish": "pescado",
+    "english": "fish (food)",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el pescado.",
+    "category": "food"
+  },
+  {
+    "id": 737,
+    "spanish": "tía",
+    "english": "aunt",
+    "partOfSpeech": "noun",
+    "example": "Necesito la tía para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 738,
+    "spanish": "hombro",
+    "english": "shoulder",
+    "partOfSpeech": "noun",
+    "example": "El hombro es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 739,
+    "spanish": "vacuna",
+    "english": "vaccine",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la vacuna.",
+    "category": "health"
+  },
+  {
+    "id": 740,
+    "spanish": "gorra",
+    "english": "cap",
+    "partOfSpeech": "noun",
+    "example": "Veo la gorra todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 741,
+    "spanish": "colega",
+    "english": "colleague",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la colega.",
+    "category": "work"
+  },
+  {
+    "id": 742,
+    "spanish": "lápiz",
+    "english": "pencil",
+    "partOfSpeech": "noun",
+    "example": "Necesito el lápiz para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 743,
+    "spanish": "noche",
+    "english": "night",
+    "partOfSpeech": "noun",
+    "example": "El noche es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 744,
+    "spanish": "granizo",
+    "english": "hail",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el granizo.",
+    "category": "weather"
+  },
+  {
+    "id": 745,
+    "spanish": "cámara",
+    "english": "camera",
+    "partOfSpeech": "noun",
+    "example": "Veo la cámara todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 746,
+    "spanish": "cancha",
+    "english": "court / field",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la cancha.",
+    "category": "sports"
+  },
+  {
+    "id": 747,
+    "spanish": "envidia",
+    "english": "envy",
+    "partOfSpeech": "noun",
+    "example": "Necesito la envidia para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 748,
+    "spanish": "marrón",
+    "english": "brown",
+    "partOfSpeech": "noun",
+    "example": "El marrón es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 749,
+    "spanish": "información",
+    "english": "information",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la información.",
+    "category": "general"
+  },
+  {
+    "id": 750,
+    "spanish": "suelo",
+    "english": "floor",
+    "partOfSpeech": "noun",
+    "example": "Veo el suelo todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 751,
+    "spanish": "playa",
+    "english": "beach",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la playa.",
+    "category": "nature"
+  },
+  {
+    "id": 752,
+    "spanish": "tigre",
+    "english": "tiger",
+    "partOfSpeech": "noun",
+    "example": "Necesito el tigre para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 753,
+    "spanish": "hotel",
+    "english": "hotel",
+    "partOfSpeech": "noun",
+    "example": "El hotel es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 754,
+    "spanish": "excursión",
+    "english": "excursion",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la excursión.",
+    "category": "travel"
+  },
+  {
+    "id": 755,
+    "spanish": "helicóptero",
+    "english": "helicopter",
+    "partOfSpeech": "noun",
+    "example": "Veo el helicóptero todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 756,
+    "spanish": "arroz",
+    "english": "rice",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el arroz.",
+    "category": "food"
+  },
+  {
+    "id": 757,
+    "spanish": "primo",
+    "english": "cousin (m)",
+    "partOfSpeech": "noun",
+    "example": "Necesito el primo para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 758,
+    "spanish": "brazo",
+    "english": "arm",
+    "partOfSpeech": "noun",
+    "example": "El brazo es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 759,
+    "spanish": "herida",
+    "english": "wound",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la herida.",
+    "category": "health"
+  },
+  {
+    "id": 760,
+    "spanish": "guante",
+    "english": "glove",
+    "partOfSpeech": "noun",
+    "example": "Veo el guante todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 761,
+    "spanish": "negocio",
+    "english": "business",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el negocio.",
+    "category": "work"
+  },
+  {
+    "id": 762,
+    "spanish": "bolígrafo",
+    "english": "pen",
+    "partOfSpeech": "noun",
+    "example": "Necesito el bolígrafo para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 763,
+    "spanish": "momento",
+    "english": "moment",
+    "partOfSpeech": "noun",
+    "example": "El momento es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 764,
+    "spanish": "trueno",
+    "english": "thunder",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el trueno.",
+    "category": "weather"
+  },
+  {
+    "id": 765,
+    "spanish": "batería",
+    "english": "battery",
+    "partOfSpeech": "noun",
+    "example": "Veo la batería todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 766,
+    "spanish": "entrenador",
+    "english": "coach",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el entrenador.",
+    "category": "sports"
+  },
+  {
+    "id": 767,
+    "spanish": "celos",
+    "english": "jealousy",
+    "partOfSpeech": "noun",
+    "example": "Necesito el celos para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 768,
+    "spanish": "dorado",
+    "english": "golden",
+    "partOfSpeech": "noun",
+    "example": "El dorado es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 769,
+    "spanish": "ejemplo",
+    "english": "example",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el ejemplo.",
+    "category": "general"
+  },
+  {
+    "id": 770,
+    "spanish": "mesa",
+    "english": "table",
+    "partOfSpeech": "noun",
+    "example": "Veo la mesa todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 771,
+    "spanish": "arena",
+    "english": "sand",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la arena.",
+    "category": "nature"
+  },
+  {
+    "id": 772,
+    "spanish": "elefante",
+    "english": "elephant",
+    "partOfSpeech": "noun",
+    "example": "Necesito el elefante para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 773,
+    "spanish": "museo",
+    "english": "museum",
+    "partOfSpeech": "noun",
+    "example": "El museo es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 774,
+    "spanish": "frontera",
+    "english": "border",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la frontera.",
+    "category": "travel"
+  },
+  {
+    "id": 775,
+    "spanish": "carretera",
+    "english": "highway",
+    "partOfSpeech": "noun",
+    "example": "Veo la carretera todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 776,
+    "spanish": "pasta",
+    "english": "pasta",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la pasta.",
+    "category": "food"
+  },
+  {
+    "id": 777,
+    "spanish": "prima",
+    "english": "cousin (f)",
+    "partOfSpeech": "noun",
+    "example": "Necesito la prima para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 778,
+    "spanish": "mano",
+    "english": "hand",
+    "partOfSpeech": "noun",
+    "example": "La mano es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 779,
+    "spanish": "gripe",
+    "english": "flu",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el gripe.",
+    "category": "health"
+  },
+  {
+    "id": 780,
+    "spanish": "bufanda",
+    "english": "scarf",
+    "partOfSpeech": "noun",
+    "example": "Veo la bufanda todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 781,
+    "spanish": "cliente",
+    "english": "client",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el cliente.",
+    "category": "work"
+  },
+  {
+    "id": 782,
+    "spanish": "pizarra",
+    "english": "chalkboard",
+    "partOfSpeech": "noun",
+    "example": "Necesito la pizarra para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 783,
+    "spanish": "fecha",
+    "english": "date",
+    "partOfSpeech": "noun",
+    "example": "La fecha es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 784,
+    "spanish": "relámpago",
+    "english": "lightning",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el relámpago.",
+    "category": "weather"
+  },
+  {
+    "id": 785,
+    "spanish": "cargador",
+    "english": "charger",
+    "partOfSpeech": "noun",
+    "example": "Veo el cargador todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 786,
+    "spanish": "campeón",
+    "english": "champion",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el campeón.",
+    "category": "sports"
+  },
+  {
+    "id": 787,
+    "spanish": "calma",
+    "english": "calm",
+    "partOfSpeech": "noun",
+    "example": "Necesito la calma para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 788,
+    "spanish": "plateado",
+    "english": "silver (color)",
+    "partOfSpeech": "noun",
+    "example": "El plateado es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 789,
+    "spanish": "razón",
+    "english": "reason",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el razón.",
+    "category": "general"
+  },
+  {
+    "id": 790,
+    "spanish": "silla",
+    "english": "chair",
+    "partOfSpeech": "noun",
+    "example": "Veo la silla todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 791,
+    "spanish": "piedra",
+    "english": "stone",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la piedra.",
+    "category": "nature"
+  },
+  {
+    "id": 792,
+    "spanish": "mono",
+    "english": "monkey",
+    "partOfSpeech": "noun",
+    "example": "Necesito el mono para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 793,
+    "spanish": "biblioteca",
+    "english": "library",
+    "partOfSpeech": "noun",
+    "example": "La biblioteca es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 794,
+    "spanish": "guía",
+    "english": "guide",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la guía.",
+    "category": "travel"
+  },
+  {
+    "id": 795,
+    "spanish": "autopista",
+    "english": "freeway",
+    "partOfSpeech": "noun",
+    "example": "Veo la autopista todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 796,
+    "spanish": "sopa",
+    "english": "soup",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la sopa.",
+    "category": "food"
+  },
+  {
+    "id": 797,
+    "spanish": "sobrino",
+    "english": "nephew",
+    "partOfSpeech": "noun",
+    "example": "Necesito el sobrino para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 798,
+    "spanish": "dedo",
+    "english": "finger",
+    "partOfSpeech": "noun",
+    "example": "El dedo es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 799,
+    "spanish": "tos",
+    "english": "cough",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el tos.",
+    "category": "health"
+  },
+  {
+    "id": 800,
+    "spanish": "cinturón",
+    "english": "belt",
+    "partOfSpeech": "noun",
+    "example": "Veo el cinturón todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 801,
+    "spanish": "producto",
+    "english": "product",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el producto.",
+    "category": "work"
+  },
+  {
+    "id": 802,
+    "spanish": "mochila",
+    "english": "backpack",
+    "partOfSpeech": "noun",
+    "example": "Necesito la mochila para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 803,
+    "spanish": "calendario",
+    "english": "calendar",
+    "partOfSpeech": "noun",
+    "example": "El calendario es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 804,
+    "spanish": "lluvia",
+    "english": "rain",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la lluvia.",
+    "category": "weather"
+  },
+  {
+    "id": 805,
+    "spanish": "contraseña",
+    "english": "password",
+    "partOfSpeech": "noun",
+    "example": "Veo la contraseña todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 806,
+    "spanish": "medalla",
+    "english": "medal",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la medalla.",
+    "category": "sports"
+  },
+  {
+    "id": 807,
+    "spanish": "ansiedad",
+    "english": "anxiety",
+    "partOfSpeech": "noun",
+    "example": "Necesito la ansiedad para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 808,
+    "spanish": "celeste",
+    "english": "sky blue",
+    "partOfSpeech": "noun",
+    "example": "El celeste es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 809,
+    "spanish": "manera",
+    "english": "way / manner",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la manera.",
+    "category": "general"
+  },
+  {
+    "id": 810,
+    "spanish": "cama",
+    "english": "bed",
+    "partOfSpeech": "noun",
+    "example": "Veo la cama todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 811,
+    "spanish": "roca",
+    "english": "rock",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la roca.",
+    "category": "nature"
+  },
+  {
+    "id": 812,
+    "spanish": "oso",
+    "english": "bear",
+    "partOfSpeech": "noun",
+    "example": "Necesito el oso para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 813,
+    "spanish": "iglesia",
+    "english": "church",
+    "partOfSpeech": "noun",
+    "example": "La iglesia es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 814,
+    "spanish": "reserva",
+    "english": "reservation",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la reserva.",
+    "category": "travel"
+  },
+  {
+    "id": 815,
+    "spanish": "rueda",
+    "english": "wheel",
+    "partOfSpeech": "noun",
+    "example": "Veo la rueda todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 816,
+    "spanish": "ensalada",
+    "english": "salad",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la ensalada.",
+    "category": "food"
+  },
+  {
+    "id": 817,
+    "spanish": "sobrina",
+    "english": "niece",
+    "partOfSpeech": "noun",
+    "example": "Necesito la sobrina para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 818,
+    "spanish": "pecho",
+    "english": "chest",
+    "partOfSpeech": "noun",
+    "example": "El pecho es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 819,
+    "spanish": "alergia",
+    "english": "allergy",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la alergia.",
+    "category": "health"
+  },
+  {
+    "id": 820,
+    "spanish": "corbata",
+    "english": "tie",
+    "partOfSpeech": "noun",
+    "example": "Veo la corbata todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 821,
+    "spanish": "servicio",
+    "english": "service",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el servicio.",
+    "category": "work"
+  },
+  {
+    "id": 822,
+    "spanish": "nota",
+    "english": "grade / note",
+    "partOfSpeech": "noun",
+    "example": "Necesito la nota para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 823,
+    "spanish": "reloj",
+    "english": "clock",
+    "partOfSpeech": "noun",
+    "example": "El reloj es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 824,
+    "spanish": "arcoíris",
+    "english": "rainbow",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el arcoíris.",
+    "category": "weather"
+  },
+  {
+    "id": 825,
+    "spanish": "archivo",
+    "english": "file",
+    "partOfSpeech": "noun",
+    "example": "Veo el archivo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 826,
+    "spanish": "competencia",
+    "english": "competition",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la competencia.",
+    "category": "sports"
+  },
+  {
+    "id": 827,
+    "spanish": "pasión",
+    "english": "passion",
+    "partOfSpeech": "noun",
+    "example": "Necesito la pasión para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 828,
+    "spanish": "turquesa",
+    "english": "turquoise",
+    "partOfSpeech": "noun",
+    "example": "La turquesa es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 829,
+    "spanish": "forma",
+    "english": "shape / form",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la forma.",
+    "category": "general"
+  },
+  {
+    "id": 830,
+    "spanish": "sofá",
+    "english": "sofa",
+    "partOfSpeech": "noun",
+    "example": "Veo el sofá todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 831,
+    "spanish": "cielo",
+    "english": "sky",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el cielo.",
+    "category": "nature"
+  },
+  {
+    "id": 832,
+    "spanish": "lobo",
+    "english": "wolf",
+    "partOfSpeech": "noun",
+    "example": "Necesito el lobo para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 833,
+    "spanish": "parque",
+    "english": "park",
+    "partOfSpeech": "noun",
+    "example": "El parque es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 834,
+    "spanish": "equipaje",
+    "english": "luggage",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el equipaje.",
+    "category": "travel"
+  },
+  {
+    "id": 835,
+    "spanish": "motor",
+    "english": "engine",
+    "partOfSpeech": "noun",
+    "example": "Veo el motor todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 836,
+    "spanish": "verdura",
+    "english": "vegetable",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la verdura.",
+    "category": "food"
+  },
+  {
+    "id": 837,
+    "spanish": "esposo",
+    "english": "husband",
+    "partOfSpeech": "noun",
+    "example": "Necesito el esposo para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 838,
+    "spanish": "espalda",
+    "english": "back",
+    "partOfSpeech": "noun",
+    "example": "La espalda es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 839,
+    "spanish": "síntoma",
+    "english": "symptom",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la síntoma.",
+    "category": "health"
+  },
+  {
+    "id": 840,
+    "spanish": "traje",
+    "english": "suit",
+    "partOfSpeech": "noun",
+    "example": "Veo el traje todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 841,
+    "spanish": "factura",
+    "english": "invoice",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la factura.",
+    "category": "work"
+  },
+  {
+    "id": 842,
+    "spanish": "curso",
+    "english": "course",
+    "partOfSpeech": "noun",
+    "example": "Necesito el curso para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 843,
+    "spanish": "siglo",
+    "english": "century",
+    "partOfSpeech": "noun",
+    "example": "El siglo es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 844,
+    "spanish": "chubasco",
+    "english": "shower (rain)",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el chubasco.",
+    "category": "weather"
+  },
+  {
+    "id": 845,
+    "spanish": "dato",
+    "english": "data",
+    "partOfSpeech": "noun",
+    "example": "Veo el dato todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 846,
+    "spanish": "maratón",
+    "english": "marathon",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el maratón.",
+    "category": "sports"
+  },
+  {
+    "id": 847,
+    "spanish": "odio",
+    "english": "hate",
+    "partOfSpeech": "noun",
+    "example": "Necesito el odio para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 848,
+    "spanish": "beige",
+    "english": "beige",
+    "partOfSpeech": "noun",
+    "example": "El beige es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 849,
+    "spanish": "parte",
+    "english": "part",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el parte.",
+    "category": "general"
+  },
+  {
+    "id": 850,
+    "spanish": "armario",
+    "english": "closet",
+    "partOfSpeech": "noun",
+    "example": "Veo el armario todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 851,
+    "spanish": "sol",
+    "english": "sun",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el sol.",
+    "category": "nature"
+  },
+  {
+    "id": 852,
+    "spanish": "zorro",
+    "english": "fox",
+    "partOfSpeech": "noun",
+    "example": "Necesito el zorro para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 853,
+    "spanish": "estadio",
+    "english": "stadium",
+    "partOfSpeech": "noun",
+    "example": "El estadio es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 854,
+    "spanish": "crucero",
+    "english": "cruise",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el crucero.",
+    "category": "travel"
+  },
+  {
+    "id": 855,
+    "spanish": "bote salvavidas",
+    "english": "lifeboat",
+    "partOfSpeech": "noun",
+    "example": "Veo el bote salvavidas todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 856,
+    "spanish": "fruta",
+    "english": "fruit",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la fruta.",
+    "category": "food"
+  },
+  {
+    "id": 857,
+    "spanish": "esposa",
+    "english": "wife",
+    "partOfSpeech": "noun",
+    "example": "Necesito la esposa para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 858,
+    "spanish": "estómago",
+    "english": "stomach",
+    "partOfSpeech": "noun",
+    "example": "El estómago es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 859,
+    "spanish": "tratamiento",
+    "english": "treatment",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el tratamiento.",
+    "category": "health"
+  },
+  {
+    "id": 860,
+    "spanish": "pijama",
+    "english": "pajamas",
+    "partOfSpeech": "noun",
+    "example": "Veo la pijama todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 861,
+    "spanish": "impuesto",
+    "english": "tax",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el impuesto.",
+    "category": "work"
+  },
+  {
+    "id": 862,
+    "spanish": "lección",
+    "english": "lesson",
+    "partOfSpeech": "noun",
+    "example": "Necesito la lección para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 863,
+    "spanish": "época",
+    "english": "era",
+    "partOfSpeech": "noun",
+    "example": "La época es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 864,
+    "spanish": "brisa",
+    "english": "breeze",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la brisa.",
+    "category": "weather"
+  },
+  {
+    "id": 865,
+    "spanish": "red",
+    "english": "network",
+    "partOfSpeech": "noun",
+    "example": "Veo el red todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 866,
+    "spanish": "ciclismo",
+    "english": "cycling",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el ciclismo.",
+    "category": "sports"
+  },
+  {
+    "id": 867,
+    "spanish": "nostalgia",
+    "english": "nostalgia",
+    "partOfSpeech": "noun",
+    "example": "Necesito la nostalgia para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 868,
+    "spanish": "violeta",
+    "english": "violet",
+    "partOfSpeech": "noun",
+    "example": "La violeta es muy importante.",
+    "category": "colors"
+  },
+  {
+    "id": 869,
+    "spanish": "grupo",
+    "english": "group",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el grupo.",
+    "category": "general"
+  },
+  {
+    "id": 870,
+    "spanish": "estante",
+    "english": "shelf",
+    "partOfSpeech": "noun",
+    "example": "Veo el estante todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 871,
+    "spanish": "luna",
+    "english": "moon",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la luna.",
+    "category": "nature"
+  },
+  {
+    "id": 872,
+    "spanish": "conejo",
+    "english": "rabbit",
+    "partOfSpeech": "noun",
+    "example": "Necesito el conejo para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 873,
+    "spanish": "aeropuerto",
+    "english": "airport",
+    "partOfSpeech": "noun",
+    "example": "El aeropuerto es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 874,
+    "spanish": "campamento",
+    "english": "campsite",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el campamento.",
+    "category": "travel"
+  },
+  {
+    "id": 875,
+    "spanish": "velero",
+    "english": "sailboat",
+    "partOfSpeech": "noun",
+    "example": "Veo el velero todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 876,
+    "spanish": "manzana",
+    "english": "apple",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la manzana.",
+    "category": "food"
+  },
+  {
+    "id": 877,
+    "spanish": "novio",
+    "english": "boyfriend",
+    "partOfSpeech": "noun",
+    "example": "Necesito el novio para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 878,
+    "spanish": "pierna",
+    "english": "leg",
+    "partOfSpeech": "noun",
+    "example": "La pierna es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 879,
+    "spanish": "cirugía",
+    "english": "surgery",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la cirugía.",
+    "category": "health"
+  },
+  {
+    "id": 880,
+    "spanish": "bota",
+    "english": "boot",
+    "partOfSpeech": "noun",
+    "example": "Veo la bota todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 881,
+    "spanish": "horario",
+    "english": "schedule",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el horario.",
+    "category": "work"
+  },
+  {
+    "id": 882,
+    "spanish": "materia",
+    "english": "subject",
+    "partOfSpeech": "noun",
+    "example": "Necesito la materia para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 883,
+    "spanish": "plazo",
+    "english": "deadline",
+    "partOfSpeech": "noun",
+    "example": "El plazo es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 884,
+    "spanish": "tormenta eléctrica",
+    "english": "thunderstorm",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la tormenta eléctrica.",
+    "category": "weather"
+  },
+  {
+    "id": 885,
+    "spanish": "dispositivo",
+    "english": "device",
+    "partOfSpeech": "noun",
+    "example": "Veo el dispositivo todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 886,
+    "spanish": "gimnasia",
+    "english": "gymnastics",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la gimnasia.",
+    "category": "sports"
+  },
+  {
+    "id": 887,
+    "spanish": "entusiasmo",
+    "english": "enthusiasm",
+    "partOfSpeech": "noun",
+    "example": "Necesito el entusiasmo para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 888,
+    "spanish": "número",
+    "english": "number",
+    "partOfSpeech": "noun",
+    "example": "El número es muy importante.",
+    "category": "general"
+  },
+  {
+    "id": 889,
+    "spanish": "lámpara",
+    "english": "lamp",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la lámpara.",
+    "category": "house"
+  },
+  {
+    "id": 890,
+    "spanish": "estrella",
+    "english": "star",
+    "partOfSpeech": "noun",
+    "example": "Veo la estrella todos los días.",
+    "category": "nature"
+  },
+  {
+    "id": 891,
+    "spanish": "ratón",
+    "english": "mouse",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el ratón.",
+    "category": "animals"
+  },
+  {
+    "id": 892,
+    "spanish": "estación",
+    "english": "station",
+    "partOfSpeech": "noun",
+    "example": "Necesito la estación para mañana.",
+    "category": "city"
+  },
+  {
+    "id": 893,
+    "spanish": "brújula",
+    "english": "compass",
+    "partOfSpeech": "noun",
+    "example": "La brújula es muy importante.",
+    "category": "travel"
+  },
+  {
+    "id": 894,
+    "spanish": "furgoneta",
+    "english": "van",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la furgoneta.",
+    "category": "transportation"
+  },
+  {
+    "id": 895,
+    "spanish": "plátano",
+    "english": "banana",
+    "partOfSpeech": "noun",
+    "example": "Veo el plátano todos los días.",
+    "category": "food"
+  },
+  {
+    "id": 896,
+    "spanish": "novia",
+    "english": "girlfriend",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la novia.",
+    "category": "family"
+  },
+  {
+    "id": 897,
+    "spanish": "rodilla",
+    "english": "knee",
+    "partOfSpeech": "noun",
+    "example": "Necesito la rodilla para mañana.",
+    "category": "body"
+  },
+  {
+    "id": 898,
+    "spanish": "ambulancia",
+    "english": "ambulance",
+    "partOfSpeech": "noun",
+    "example": "La ambulancia es muy importante.",
+    "category": "health"
+  },
+  {
+    "id": 899,
+    "spanish": "sandalia",
+    "english": "sandal",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la sandalia.",
+    "category": "clothing"
+  },
+  {
+    "id": 900,
+    "spanish": "carrera",
+    "english": "career",
+    "partOfSpeech": "noun",
+    "example": "Veo la carrera todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 901,
+    "spanish": "matemáticas",
+    "english": "mathematics",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el matemáticas.",
+    "category": "school"
+  },
+  {
+    "id": 902,
+    "spanish": "temporada",
+    "english": "season (of time)",
+    "partOfSpeech": "noun",
+    "example": "Necesito la temporada para mañana.",
+    "category": "time"
+  },
+  {
+    "id": 903,
+    "spanish": "sequía",
+    "english": "drought",
+    "partOfSpeech": "noun",
+    "example": "La sequía es muy importante.",
+    "category": "weather"
+  },
+  {
+    "id": 904,
+    "spanish": "aplicación móvil",
+    "english": "mobile app",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el aplicación móvil.",
+    "category": "technology"
+  },
+  {
+    "id": 905,
+    "spanish": "boxeo",
+    "english": "boxing",
+    "partOfSpeech": "noun",
+    "example": "Veo el boxeo todos los días.",
+    "category": "sports"
+  },
+  {
+    "id": 906,
+    "spanish": "compasión",
+    "english": "compassion",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la compasión.",
+    "category": "emotions"
+  },
+  {
+    "id": 907,
+    "spanish": "lista",
+    "english": "list",
+    "partOfSpeech": "noun",
+    "example": "Necesito la lista para mañana.",
+    "category": "general"
+  },
+  {
+    "id": 908,
+    "spanish": "espejo",
+    "english": "mirror",
+    "partOfSpeech": "noun",
+    "example": "El espejo es muy importante.",
+    "category": "house"
+  },
+  {
+    "id": 909,
+    "spanish": "nube",
+    "english": "cloud",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el nube.",
+    "category": "nature"
+  },
+  {
+    "id": 910,
+    "spanish": "serpiente",
+    "english": "snake",
+    "partOfSpeech": "noun",
+    "example": "Veo el serpiente todos los días.",
+    "category": "animals"
+  },
+  {
+    "id": 911,
+    "spanish": "semáforo",
+    "english": "traffic light",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el semáforo.",
+    "category": "city"
+  },
+  {
+    "id": 912,
+    "spanish": "mochilero",
+    "english": "backpacker",
+    "partOfSpeech": "noun",
+    "example": "Necesito el mochilero para mañana.",
+    "category": "travel"
+  },
+  {
+    "id": 913,
+    "spanish": "cohete",
+    "english": "rocket",
+    "partOfSpeech": "noun",
+    "example": "El cohete es muy importante.",
+    "category": "transportation"
+  },
+  {
+    "id": 914,
+    "spanish": "naranja",
+    "english": "orange",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la naranja.",
+    "category": "food"
+  },
+  {
+    "id": 915,
+    "spanish": "nieto",
+    "english": "grandson",
+    "partOfSpeech": "noun",
+    "example": "Veo el nieto todos los días.",
+    "category": "family"
+  },
+  {
+    "id": 916,
+    "spanish": "pie",
+    "english": "foot",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la pie.",
+    "category": "body"
+  },
+  {
+    "id": 917,
+    "spanish": "cicatriz",
+    "english": "scar",
+    "partOfSpeech": "noun",
+    "example": "Necesito el cicatriz para mañana.",
+    "category": "health"
+  },
+  {
+    "id": 918,
+    "spanish": "bolsillo",
+    "english": "pocket",
+    "partOfSpeech": "noun",
+    "example": "El bolsillo es muy importante.",
+    "category": "clothing"
+  },
+  {
+    "id": 919,
+    "spanish": "profesión",
+    "english": "profession",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la profesión.",
+    "category": "work"
+  },
+  {
+    "id": 920,
+    "spanish": "historia",
+    "english": "history",
+    "partOfSpeech": "noun",
+    "example": "Veo la historia todos los días.",
+    "category": "school"
+  },
+  {
+    "id": 921,
+    "spanish": "madrugada",
+    "english": "early morning / dawn",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la madrugada.",
+    "category": "time"
+  },
+  {
+    "id": 922,
+    "spanish": "inundación",
+    "english": "flood",
+    "partOfSpeech": "noun",
+    "example": "Necesito la inundación para mañana.",
+    "category": "weather"
+  },
+  {
+    "id": 923,
+    "spanish": "navegador",
+    "english": "browser",
+    "partOfSpeech": "noun",
+    "example": "El navegador es muy importante.",
+    "category": "technology"
+  },
+  {
+    "id": 924,
+    "spanish": "voleibol",
+    "english": "volleyball",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el voleibol.",
+    "category": "sports"
+  },
+  {
+    "id": 925,
+    "spanish": "gratitud",
+    "english": "gratitude",
+    "partOfSpeech": "noun",
+    "example": "Veo la gratitud todos los días.",
+    "category": "emotions"
+  },
+  {
+    "id": 926,
+    "spanish": "nombre",
+    "english": "name",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el nombre.",
+    "category": "general"
+  },
+  {
+    "id": 927,
+    "spanish": "cortina",
+    "english": "curtain",
+    "partOfSpeech": "noun",
+    "example": "Necesito la cortina para mañana.",
+    "category": "house"
+  },
+  {
+    "id": 928,
+    "spanish": "tierra",
+    "english": "earth / land",
+    "partOfSpeech": "noun",
+    "example": "La tierra es muy importante.",
+    "category": "nature"
+  },
+  {
+    "id": 929,
+    "spanish": "tortuga",
+    "english": "turtle",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la tortuga.",
+    "category": "animals"
+  },
+  {
+    "id": 930,
+    "spanish": "acera",
+    "english": "sidewalk",
+    "partOfSpeech": "noun",
+    "example": "Veo la acera todos los días.",
+    "category": "city"
+  },
+  {
+    "id": 931,
+    "spanish": "visado",
+    "english": "visa",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el visado.",
+    "category": "travel"
+  },
+  {
+    "id": 932,
+    "spanish": "tranvía",
+    "english": "tram",
+    "partOfSpeech": "noun",
+    "example": "Necesito la tranvía para mañana.",
+    "category": "transportation"
+  },
+  {
+    "id": 933,
+    "spanish": "uva",
+    "english": "grape",
+    "partOfSpeech": "noun",
+    "example": "La uva es muy importante.",
+    "category": "food"
+  },
+  {
+    "id": 934,
+    "spanish": "nieta",
+    "english": "granddaughter",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la nieta.",
+    "category": "family"
+  },
+  {
+    "id": 935,
+    "spanish": "corazón",
+    "english": "heart",
+    "partOfSpeech": "noun",
+    "example": "Veo el corazón todos los días.",
+    "category": "body"
+  },
+  {
+    "id": 936,
+    "spanish": "moretón",
+    "english": "bruise",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el moretón.",
+    "category": "health"
+  },
+  {
+    "id": 937,
+    "spanish": "botón",
+    "english": "button",
+    "partOfSpeech": "noun",
+    "example": "Necesito el botón para mañana.",
+    "category": "clothing"
+  },
+  {
+    "id": 938,
+    "spanish": "informe",
+    "english": "report",
+    "partOfSpeech": "noun",
+    "example": "El informe es muy importante.",
+    "category": "work"
+  },
+  {
+    "id": 939,
+    "spanish": "ciencia",
+    "english": "science",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la ciencia.",
+    "category": "school"
+  },
+  {
+    "id": 940,
+    "spanish": "mediodía",
+    "english": "midday",
+    "partOfSpeech": "noun",
+    "example": "Veo la mediodía todos los días.",
+    "category": "time"
+  },
+  {
+    "id": 941,
+    "spanish": "terremoto",
+    "english": "earthquake",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el terremoto.",
+    "category": "weather"
+  },
+  {
+    "id": 942,
+    "spanish": "nube (datos)",
+    "english": "cloud (data)",
+    "partOfSpeech": "noun",
+    "example": "Necesito el nube (datos) para mañana.",
+    "category": "technology"
+  },
+  {
+    "id": 943,
+    "spanish": "béisbol",
+    "english": "baseball",
+    "partOfSpeech": "noun",
+    "example": "El béisbol es muy importante.",
+    "category": "sports"
+  },
+  {
+    "id": 944,
+    "spanish": "confianza",
+    "english": "trust / confidence",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la confianza.",
+    "category": "emotions"
+  },
+  {
+    "id": 945,
+    "spanish": "palabra",
+    "english": "word",
+    "partOfSpeech": "noun",
+    "example": "Veo la palabra todos los días.",
+    "category": "general"
+  },
+  {
+    "id": 946,
+    "spanish": "alfombra",
+    "english": "rug",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la alfombra.",
+    "category": "house"
+  },
+  {
+    "id": 947,
+    "spanish": "campo",
+    "english": "countryside / field",
+    "partOfSpeech": "noun",
+    "example": "Necesito el campo para mañana.",
+    "category": "nature"
+  },
+  {
+    "id": 948,
+    "spanish": "rana",
+    "english": "frog",
+    "partOfSpeech": "noun",
+    "example": "La rana es muy importante.",
+    "category": "animals"
+  },
+  {
+    "id": 949,
+    "spanish": "esquina",
+    "english": "corner",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la esquina.",
+    "category": "city"
+  },
+  {
+    "id": 950,
+    "spanish": "aduana",
+    "english": "customs",
+    "partOfSpeech": "noun",
+    "example": "Veo la aduana todos los días.",
+    "category": "travel"
+  },
+  {
+    "id": 951,
+    "spanish": "patineta",
+    "english": "skateboard",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la patineta.",
+    "category": "transportation"
+  },
+  {
+    "id": 952,
+    "spanish": "fresa",
+    "english": "strawberry",
+    "partOfSpeech": "noun",
+    "example": "Necesito la fresa para mañana.",
+    "category": "food"
+  },
+  {
+    "id": 953,
+    "spanish": "suegro",
+    "english": "father-in-law",
+    "partOfSpeech": "noun",
+    "example": "El suegro es muy importante.",
+    "category": "family"
+  },
+  {
+    "id": 954,
+    "spanish": "cerebro",
+    "english": "brain",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el cerebro.",
+    "category": "body"
+  },
+  {
+    "id": 955,
+    "spanish": "quemadura",
+    "english": "burn",
+    "partOfSpeech": "noun",
+    "example": "Veo la quemadura todos los días.",
+    "category": "health"
+  },
+  {
+    "id": 956,
+    "spanish": "tela",
+    "english": "fabric",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la tela.",
+    "category": "clothing"
+  },
+  {
+    "id": 957,
+    "spanish": "gerente",
+    "english": "manager",
+    "partOfSpeech": "noun",
+    "example": "Necesito el gerente para mañana.",
+    "category": "work"
+  },
+  {
+    "id": 958,
+    "spanish": "idioma",
+    "english": "language",
+    "partOfSpeech": "noun",
+    "example": "El idioma es muy importante.",
+    "category": "school"
+  },
+  {
+    "id": 959,
+    "spanish": "medianoche",
+    "english": "midnight",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el medianoche.",
+    "category": "time"
+  },
+  {
+    "id": 960,
+    "spanish": "monzón",
+    "english": "monsoon",
+    "partOfSpeech": "noun",
+    "example": "Veo el monzón todos los días.",
+    "category": "weather"
+  },
+  {
+    "id": 961,
+    "spanish": "altavoz",
+    "english": "speaker",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el altavoz.",
+    "category": "technology"
+  },
+  {
+    "id": 962,
+    "spanish": "golf",
+    "english": "golf",
+    "partOfSpeech": "noun",
+    "example": "Necesito el golf para mañana.",
+    "category": "sports"
+  },
+  {
+    "id": 963,
+    "spanish": "decepción",
+    "english": "disappointment",
+    "partOfSpeech": "noun",
+    "example": "La decepción es muy importante.",
+    "category": "emotions"
+  },
+  {
+    "id": 964,
+    "spanish": "letra",
+    "english": "letter",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la letra.",
+    "category": "general"
+  },
+  {
+    "id": 965,
+    "spanish": "escalera",
+    "english": "stairs",
+    "partOfSpeech": "noun",
+    "example": "Veo la escalera todos los días.",
+    "category": "house"
+  },
+  {
+    "id": 966,
+    "spanish": "valle",
+    "english": "valley",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el valle.",
+    "category": "nature"
+  },
+  {
+    "id": 967,
+    "spanish": "insecto",
+    "english": "insect",
+    "partOfSpeech": "noun",
+    "example": "Necesito el insecto para mañana.",
+    "category": "animals"
+  },
+  {
+    "id": 968,
+    "spanish": "barrio",
+    "english": "neighborhood",
+    "partOfSpeech": "noun",
+    "example": "El barrio es muy importante.",
+    "category": "city"
+  },
+  {
+    "id": 969,
+    "spanish": "embajada",
+    "english": "embassy",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la embajada.",
+    "category": "travel"
+  },
+  {
+    "id": 970,
+    "spanish": "monopatín",
+    "english": "scooter",
+    "partOfSpeech": "noun",
+    "example": "Veo el monopatín todos los días.",
+    "category": "transportation"
+  },
+  {
+    "id": 971,
+    "spanish": "limón",
+    "english": "lemon",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el limón.",
+    "category": "food"
+  },
+  {
+    "id": 972,
+    "spanish": "suegra",
+    "english": "mother-in-law",
+    "partOfSpeech": "noun",
+    "example": "Necesito la suegra para mañana.",
+    "category": "family"
+  },
+  {
+    "id": 973,
+    "spanish": "piel",
+    "english": "skin",
+    "partOfSpeech": "noun",
+    "example": "El piel es muy importante.",
+    "category": "body"
+  },
+  {
+    "id": 974,
+    "spanish": "infección",
+    "english": "infection",
+    "partOfSpeech": "noun",
+    "example": "Aquí está la infección.",
+    "category": "health"
+  },
+  {
+    "id": 975,
+    "spanish": "moda",
+    "english": "fashion",
+    "partOfSpeech": "noun",
+    "example": "Veo la moda todos los días.",
+    "category": "clothing"
+  },
+  {
+    "id": 976,
+    "spanish": "director",
+    "english": "director",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el director.",
+    "category": "work"
+  },
+  {
+    "id": 977,
+    "spanish": "aula",
+    "english": "classroom",
+    "partOfSpeech": "noun",
+    "example": "Necesito la aula para mañana.",
+    "category": "school"
+  },
+  {
+    "id": 978,
+    "spanish": "ayer",
+    "english": "yesterday",
+    "partOfSpeech": "noun",
+    "example": "El ayer es muy importante.",
+    "category": "time"
+  },
+  {
+    "id": 979,
+    "spanish": "pronóstico",
+    "english": "forecast",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el pronóstico.",
+    "category": "weather"
+  },
+  {
+    "id": 980,
+    "spanish": "auricular",
+    "english": "headphone",
+    "partOfSpeech": "noun",
+    "example": "Veo el auricular todos los días.",
+    "category": "technology"
+  },
+  {
+    "id": 981,
+    "spanish": "esquí",
+    "english": "skiing",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el esquí.",
+    "category": "sports"
+  },
+  {
+    "id": 982,
+    "spanish": "frustración",
+    "english": "frustration",
+    "partOfSpeech": "noun",
+    "example": "Necesito la frustración para mañana.",
+    "category": "emotions"
+  },
+  {
+    "id": 983,
+    "spanish": "frase",
+    "english": "sentence / phrase",
+    "partOfSpeech": "noun",
+    "example": "El frase es muy importante.",
+    "category": "general"
+  },
+  {
+    "id": 984,
+    "spanish": "balcón",
+    "english": "balcony",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el balcón.",
+    "category": "house"
+  },
+  {
+    "id": 985,
+    "spanish": "colina",
+    "english": "hill",
+    "partOfSpeech": "noun",
+    "example": "Veo la colina todos los días.",
+    "category": "nature"
+  },
+  {
+    "id": 986,
+    "spanish": "mosca",
+    "english": "fly",
+    "partOfSpeech": "noun",
+    "example": "Me gusta la mosca.",
+    "category": "animals"
+  },
+  {
+    "id": 987,
+    "spanish": "ayuntamiento",
+    "english": "city hall",
+    "partOfSpeech": "noun",
+    "example": "Necesito el ayuntamiento para mañana.",
+    "category": "city"
+  },
+  {
+    "id": 988,
+    "spanish": "hostal",
+    "english": "hostel",
+    "partOfSpeech": "noun",
+    "example": "El hostal es muy importante.",
+    "category": "travel"
+  },
+  {
+    "id": 989,
+    "spanish": "neumático",
+    "english": "tire",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el neumático.",
+    "category": "transportation"
+  },
+  {
+    "id": 990,
+    "spanish": "tomate",
+    "english": "tomato",
+    "partOfSpeech": "noun",
+    "example": "Veo el tomate todos los días.",
+    "category": "food"
+  },
+  {
+    "id": 991,
+    "spanish": "cuñado",
+    "english": "brother-in-law",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el cuñado.",
+    "category": "family"
+  },
+  {
+    "id": 992,
+    "spanish": "uña",
+    "english": "nail",
+    "partOfSpeech": "noun",
+    "example": "Necesito la uña para mañana.",
+    "category": "body"
+  },
+  {
+    "id": 993,
+    "spanish": "inyección",
+    "english": "injection",
+    "partOfSpeech": "noun",
+    "example": "La inyección es muy importante.",
+    "category": "health"
+  },
+  {
+    "id": 994,
+    "spanish": "uniforme",
+    "english": "uniform",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el uniforme.",
+    "category": "clothing"
+  },
+  {
+    "id": 995,
+    "spanish": "secretario",
+    "english": "secretary",
+    "partOfSpeech": "noun",
+    "example": "Veo el secretario todos los días.",
+    "category": "work"
+  },
+  {
+    "id": 996,
+    "spanish": "director escolar",
+    "english": "principal",
+    "partOfSpeech": "noun",
+    "example": "Me gusta el director escolar.",
+    "category": "school"
+  },
+  {
+    "id": 997,
+    "spanish": "hoy",
+    "english": "today",
+    "partOfSpeech": "noun",
+    "example": "Necesito el hoy para mañana.",
+    "category": "time"
+  },
+  {
+    "id": 998,
+    "spanish": "micrófono",
+    "english": "microphone",
+    "partOfSpeech": "noun",
+    "example": "El micrófono es muy importante.",
+    "category": "technology"
+  },
+  {
+    "id": 999,
+    "spanish": "surf",
+    "english": "surfing",
+    "partOfSpeech": "noun",
+    "example": "Aquí está el surf.",
+    "category": "sports"
+  },
+  {
+    "id": 1000,
+    "spanish": "alivio",
+    "english": "relief",
+    "partOfSpeech": "noun",
+    "example": "Veo el alivio todos los días.",
+    "category": "emotions"
+  }
+]
